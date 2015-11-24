@@ -1,0 +1,15 @@
+static int default_component_results[MOD_COUNT] = {
+	RLM_MODULE_REJECT,	/* AUTH */
+	RLM_MODULE_NOTFOUND,	/* AUTZ */
+	RLM_MODULE_NOOP,	/* PREACCT */
+	RLM_MODULE_NOOP,	/* ACCT */
+	RLM_MODULE_FAIL,	/* SESS */
+	RLM_MODULE_NOOP,	/* PRE_PROXY */
+	RLM_MODULE_NOOP,	/* POST_PROXY */
+	RLM_MODULE_NOOP       	/* POST_AUTH */
+#ifdef WITH_COA
+	,
+	RLM_MODULE_NOOP,       	/* RECV_COA_TYPE */
+	RLM_MODULE_NOOP		/* SEND_COA_TYPE */
+#endif
+};
