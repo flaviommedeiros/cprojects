@@ -1,0 +1,3 @@
+#ifdef CONFIG_USB_GADGET_DUALSPEED
+if (type == USB_DT_OTHER_SPEED_CONFIG)
+		speed = (USB_SPEED_FULL + USB_SPEED_HIGH) - speed;

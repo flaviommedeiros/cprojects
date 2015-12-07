@@ -1,0 +1,13 @@
+#ifndef OPENSSL_NO_DTLS
+if (dtls1)
+        meth = DTLSv1_method();
+    else if (dtls12)
+        meth = DTLSv1_2_method();
+    else
+#endif
+#ifndef OPENSSL_NO_TLS1
+    if (tls1)
+        meth = TLSv1_method();
+    else
+#endif
+        meth = SSLv23_method();
