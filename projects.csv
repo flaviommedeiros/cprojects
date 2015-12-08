@@ -60,9 +60,9 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 4090,luvit,594,https://github.com/luvit/luvit,,,
 3092864,cctools,591,https://github.com/cooperative-computing-lab/cctools,ABERTO,ABERTO,Romero
 21192,Desurium,278,https://github.com/lodle/Desurium,,,
-736347,lxc,275,https://github.com/lxc/lxc,,,
+736347,lxc,275,https://github.com/lxc/lxc,,,Wesley
 1363334,mdtraj,274,https://github.com/rmcgibbo/mdtraj,,,
-11002,osgearth,273,https://github.com/gwaldron/osgearth,,,
+11002,osgearth,273,https://github.com/gwaldron/osgearth,,,Wesley
 18248586,titanium_mobile_windows,273,https://github.com/appcelerator/titanium_mobile_windows,,,
 7895526,secp256k1,271,https://github.com/bitcoin/secp256k1,,,
 2508,madlib,270,https://github.com/madlib/madlib,,,
@@ -90,7 +90,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 7900,gonk-misc,240,https://github.com/mozilla-b2g/gonk-misc,,,
 21164527,cuberite,239,https://github.com/cuberite/cuberite,,,
 1639397,fusedav,235,https://github.com/pantheon-systems/fusedav,,,
-11853708,flux-core,233,https://github.com/flux-framework/flux-core,,,
+11853708,flux-core,233,https://github.com/flux-framework/flux-core,,,Wesley
 4277818,khypervisor,232,https://github.com/kesl/khypervisor,,,
 102179,gentoo-zh,232,https://github.com/microcai/gentoo-zh,,,
 15919481,i3,230,https://github.com/i3/i3,,,
@@ -138,13 +138,13 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 17383,showtime,192,https://github.com/andoma/showtime,,,
 6490831,wren,189,https://github.com/munificent/wren,,,
 774758,rrdtool-1.x,189,https://github.com/oetiker/rrdtool-1.x,,,
-4778068,MDSplus,187,https://github.com/MDSplus/MDSplus,,,
+4778068,MDSplus,187,https://github.com/MDSplus/MDSplus,,,Wesley
 13364936,Sqlite3.07.14,187,https://github.com/HuiLi/Sqlite3.07.14,,,
 10401646,libelektra,186,https://github.com/ElektraInitiative/libelektra,,,
 13485836,stack,186,https://github.com/IRATI/stack,,,
 203564,rock,184,https://github.com/nddrylliog/rock,,,
 10080901,libreset,184,https://github.com/matthiasbeyer/libreset,,,
-1349763,ModSecurity,183,https://github.com/SpiderLabs/ModSecurity,,,
+1349763,ModSecurity,183,https://github.com/SpiderLabs/ModSecurity,,,Wesley
 13062134,device-sony-shinano,182,https://github.com/sonyxperiadev/device-sony-shinano,,,
 7994,asuswrt-merlin,181,https://github.com/RMerl/asuswrt-merlin,,,
 135919,naev,180,https://github.com/bobbens/naev,,,
@@ -152,7 +152,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 710,skynet,178,https://github.com/cloudwu/skynet,,,
 6281081,mixtape,178,https://github.com/rmcgibbo/mixtape,,,
 8324745,jskeus,177,https://github.com/euslisp/jskeus,,,
-3940752,MoarVM,177,https://github.com/MoarVM/MoarVM,,,
+3940752,MoarVM,177,https://github.com/MoarVM/MoarVM,,,Wesley
 5220347,nanomsg,176,https://github.com/nanomsg/nanomsg,,,
 7224578,desura-app,175,https://github.com/lindenlab/desura-app,,,Wesley
 3664356,lizardfs,174,https://github.com/lizardfs/lizardfs,,,
