@@ -67,7 +67,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 7895526,secp256k1,271,https://github.com/bitcoin/secp256k1,,,
 2508,madlib,270,https://github.com/madlib/madlib,,,LUIZ
 3240831,libhybris,270,https://github.com/libhybris/libhybris,,,
-10277858,toxcore,270,https://github.com/irungentoo/toxcore,,,
+10277858,toxcore,270,https://github.com/irungentoo/toxcore,Pull_Request_Enviado,,Romero
 8087,xbmc,269,https://github.com/opdenkamp/xbmc,,,
 6854464,rsyslog,268,https://github.com/rsyslog/rsyslog,,,
 16032585,libfabric-cray,268,https://github.com/ofi-cray/libfabric-cray,,,
@@ -133,7 +133,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 9861,redcarpet,195,https://github.com/vmg/redcarpet,,,
 85205,Remmina,193,https://github.com/FreeRDP/Remmina,,,
 1426229,rathena,193,https://github.com/rathena/rathena,,,
-5103158,toxic,193,https://github.com/JFreegman/toxic,,,
+5103158,toxic,193,https://github.com/JFreegman/toxic,Pull_Request_Enviado,,Romero
 11669367,firmware,192,https://github.com/spark/firmware,,,
 17383,showtime,192,https://github.com/andoma/showtime,,,
 6490831,wren,189,https://github.com/munificent/wren,,,
