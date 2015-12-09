@@ -78,7 +78,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 17807,geany-plugins,253,https://github.com/geany/geany-plugins,,,
 2472,saffire,251,https://github.com/saffire/saffire,,,
 31340,Smoothie,250,https://github.com/arthurwolf/Smoothie,,,
-3348619,pyart,249,https://github.com/ARM-DOE/pyart,,,
+3348619,pyart,249,https://github.com/ARM-DOE/pyart,Apenas_De_Lib,,Romero
 9520899,libyami,248,https://github.com/01org/libyami,,,
 475682,torque,247,https://github.com/adaptivecomputing/torque,Pull_Request_Enviado,,Romero
 12666384,h2o,245,https://github.com/h2o/h2o,,,
@@ -97,14 +97,14 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 806576,rspamd,229,https://github.com/vstakhov/rspamd,,,LUIZ
 815849,baseflight,229,https://github.com/multiwii/baseflight,,,
 5215914,connman,229,https://github.com/mer-packages/connman,,,
-11690,persistent,227,https://github.com/yesodweb/persistent,,,
+11690,persistent,227,https://github.com/yesodweb/persistent,Apenas_De_Lib,,Romero
 20707421,ctags,227,https://github.com/universal-ctags/ctags,,,
 34440,mu,226,https://github.com/djcb/mu,,,
 565654,jq,221,https://github.com/stedolan/jq,,,
-1496445,openwsn-fw,221,https://github.com/openwsn-berkeley/openwsn-fw,,,
+1496445,openwsn-fw,221,https://github.com/openwsn-berkeley/openwsn-fw,Pull_Request_Enviado,,Romero
 6826230,kamailio,220,https://github.com/kamailio/kamailio,,,
 30913,atheme,220,https://github.com/atheme/atheme,,LUIZ,
-38701,python-for-android,220,https://github.com/kivy/python-for-android,,,
+38701,python-for-android,220,https://github.com/kivy/python-for-android,Apenas_De_Lib,,Romero
 5012874,urbit,215,https://github.com/urbit/urbit,Pull_Request_Enviado,,Romero
 6068879,Telegram,213,https://github.com/DrKLO/Telegram,,,
 12185491,openwebrtc,213,https://github.com/EricssonResearch/openwebrtc,,,
@@ -115,7 +115,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 1088,linux,209,https://github.com/torvalds/linux,,,
 64542,samtools,209,https://github.com/samtools/samtools,,,
 8837904,sysdig,208,https://github.com/draios/sysdig,,,LUIZ
-3757508,pkg,207,https://github.com/freebsd/pkg,,,
+3757508,pkg,207,https://github.com/freebsd/pkg,Apenas_De_lib,,Romero
 1933428,libvmi,207,https://github.com/bdpayne/libvmi,,,
 9922211,irssi,206,https://github.com/irssi/irssi,,LUIZ,
 13106415,fossa,206,https://github.com/cesanta/fossa,,,Wesley
