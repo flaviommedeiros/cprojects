@@ -28,7 +28,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 2341237,TauLabs,1250,https://github.com/TauLabs/TauLabs,ACEITO,ABERTO,Romero
 60622,cvmfs,1218,https://github.com/cvmfs/cvmfs,,,
 25991,zfs,1188,https://github.com/zfsonlinux/zfs,INVÁLIDO,ABERTO,ABERTO
-174722,fontforge,1187,https://github.com/fontforge/fontforge,ABERTO,ABERTO,LUIZ
+174722,fontforge,1187,https://github.com/fontforge/fontforge,PULL_REQUEST_ENVIADO,ABERTO,LUIZ
 84149,systemd,1174,https://github.com/systemd/systemd,ABERTO,ABERTO,Wesley
 13521151,firefox-ios,1168,https://github.com/mozilla/firefox-ios,,,
 44428,TextSecure,1157,https://github.com/WhisperSystems/Signal-Android,INVÁLIDO,ABERTO,Romero
