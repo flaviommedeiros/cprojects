@@ -94,7 +94,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 4277818,khypervisor,232,https://github.com/kesl/khypervisor,,,
 102179,gentoo-zh,232,https://github.com/microcai/gentoo-zh,,,
 15919481,i3,230,https://github.com/i3/i3,,,
-806576,rspamd,229,https://github.com/vstakhov/rspamd,,,LUIZ
+806576,rspamd,229,https://github.com/vstakhov/rspamd,PULL_REQUEST_ENVIADO,,LUIZ
 815849,baseflight,229,https://github.com/multiwii/baseflight,Inválido,,Romero
 5215914,connman,229,https://github.com/mer-packages/connman,,,
 11690,persistent,227,https://github.com/yesodweb/persistent,Apenas_De_Lib,,Romero
