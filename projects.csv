@@ -114,7 +114,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 5424668,ofono,210,https://github.com/rilmodem/ofono,,,
 1088,linux,209,https://github.com/torvalds/linux,,,
 64542,samtools,209,https://github.com/samtools/samtools,,,
-8837904,sysdig,208,https://github.com/draios/sysdig,,,LUIZ
+8837904,sysdig,208,https://github.com/draios/sysdig,PULL_REQUEST_ENVIADO,,LUIZ
 3757508,pkg,207,https://github.com/freebsd/pkg,Apenas_De_lib,,Romero
 1933428,libvmi,207,https://github.com/bdpayne/libvmi,,,
 9922211,irssi,206,https://github.com/irssi/irssi,,LUIZ,
