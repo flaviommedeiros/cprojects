@@ -33,7 +33,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 13521151,firefox-ios,1168,https://github.com/mozilla/firefox-ios,,,
 44428,TextSecure,1157,https://github.com/WhisperSystems/Signal-Android,INVÁLIDO,ABERTO,Romero
 2713024,mbed,1142,https://github.com/mbedmicro/mbed,EM_ANDAMENTO,ABERTO,Romero
-770,redis,1078,https://github.com/antirez/redis,ABERTO,ABERTO,LUIZ
+770,redis,1078,https://github.com/antirez/redis,PULL_REQUEST_ENVIADO,ABERTO,LUIZ
 1312712,contiki,1054,https://github.com/contiki-os/contiki,ABERTO,ABERTO,LUIZ
 4712205,MCServer,1040,https://github.com/mc-server/MCServer,INVÁLIDO,ABERTO,Romero
 27564,darktable,1011,https://github.com/darktable-org/darktable,ABERTO,ABERTO,Wesley
