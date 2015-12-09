@@ -75,9 +75,9 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 8335,libfreenect,263,https://github.com/OpenKinect/libfreenect,Apenas_De_Lib,,Romero
 14394,dava.framework,263,https://github.com/dava/dava.framework,,,
 146495,native,261,https://github.com/hrydgard/native,Apenas_De_Lib,,Romero
-17807,geany-plugins,253,https://github.com/geany/geany-plugins,,,
+17807,geany-plugins,253,https://github.com/geany/geany-plugins,Inválido,,Romero
 2472,saffire,251,https://github.com/saffire/saffire,,,
-31340,Smoothie,250,https://github.com/arthurwolf/Smoothie,,,
+31340,Smoothie,250,https://github.com/arthurwolf/Smoothie,Pull_Request_Enviado,,Romero
 3348619,pyart,249,https://github.com/ARM-DOE/pyart,Apenas_De_Lib,,Romero
 9520899,libyami,248,https://github.com/01org/libyami,,,
 475682,torque,247,https://github.com/adaptivecomputing/torque,Pull_Request_Enviado,,Romero
@@ -95,7 +95,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 102179,gentoo-zh,232,https://github.com/microcai/gentoo-zh,,,
 15919481,i3,230,https://github.com/i3/i3,,,
 806576,rspamd,229,https://github.com/vstakhov/rspamd,,,LUIZ
-815849,baseflight,229,https://github.com/multiwii/baseflight,,,
+815849,baseflight,229,https://github.com/multiwii/baseflight,Inválido,,Romero
 5215914,connman,229,https://github.com/mer-packages/connman,,,
 11690,persistent,227,https://github.com/yesodweb/persistent,Apenas_De_Lib,,Romero
 20707421,ctags,227,https://github.com/universal-ctags/ctags,,,
@@ -134,7 +134,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 85205,Remmina,193,https://github.com/FreeRDP/Remmina,,,
 1426229,rathena,193,https://github.com/rathena/rathena,Pull_Request_Enviado,,Romero
 5103158,toxic,193,https://github.com/JFreegman/toxic,Pull_Request_Enviado,,Romero
-11669367,firmware,192,https://github.com/spark/firmware,,,
+11669367,firmware,192,https://github.com/spark/firmware,Inválido,,Romero
 17383,showtime,192,https://github.com/andoma/showtime,Apenas_De_Lib,,Romero
 6490831,wren,189,https://github.com/munificent/wren,,,
 774758,rrdtool-1.x,189,https://github.com/oetiker/rrdtool-1.x,Pul_Request_Enviado,,Romero
