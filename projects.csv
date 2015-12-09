@@ -22,7 +22,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 14794450,Marlin,1400,https://github.com/MarlinFirmware/Marlin,INVÁLIDO,ABERTO,ABERTO
 4371013,RetroArch,1395,https://github.com/libretro/RetroArch,ABERTO,ABERTO,Wesley
 18659,Cinnamon,1393,https://github.com/linuxmint/Cinnamon,INVÁLIDO,ABERTO,Romero
-14098,radare2,1354,https://github.com/radare/radare2,ABERTO,ABERTO,LUIZ
+14098,radare2,1354,https://github.com/radare/radare2,RECUSADO-LIB,ABERTO,LUIZ
 7402,wiredtiger,1311,https://github.com/wiredtiger/wiredtiger,ABERTO,ABERTO,Wesley
 206816,nit,1251,https://github.com/privat/nit,INVÁLIDO,ABERTO,Romero
 2341237,TauLabs,1250,https://github.com/TauLabs/TauLabs,ACEITO,ABERTO,Romero
