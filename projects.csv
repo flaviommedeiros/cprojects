@@ -183,7 +183,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 2483388,libreport,157,https://github.com/abrt/libreport,,,
 200124,ostree,156,https://github.com/GNOME/ostree,,,
 24603,http-parser,156,https://github.com/joyent/http-parser,,,
-3277278,cocos2d-x,155,https://github.com/chengstory/cocos2d-x,,,LUIZ
+3277278,cocos2d-x,155,https://github.com/chengstory/cocos2d-x,PULL_REQUEST_ENVIADO,,LUIZ
 15799856,pal,155,https://github.com/parallella/pal,,,
 12655533,device-sony-rhine,155,https://github.com/sonyxperiadev/device-sony-rhine,,,
 3434493,glfw,155,https://github.com/glfw/glfw,,,
@@ -193,7 +193,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 10508,stlink,154,https://github.com/texane/stlink,,,
 6646362,DeltaPorts,154,https://github.com/DragonFlyBSD/DeltaPorts,,,
 6797027,iGCS,154,https://github.com/fightingwalrus/iGCS,,,
-788,FFmpeg,153,https://github.com/FFmpeg/FFmpeg,,PULL_REQUEST_ENVIADO,LUIZ
+788,FFmpeg,153,https://github.com/FFmpeg/FFmpeg,PULL_REQUEST_ENVIADO,,LUIZ
 4885,mpc-hc,153,https://github.com/mpc-hc/mpc-hc,,,
 4996076,rebol,153,https://github.com/rebol/rebol,,,
 22041811,ucx,153,https://github.com/openucx/ucx,,,
