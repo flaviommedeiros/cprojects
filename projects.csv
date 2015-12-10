@@ -125,7 +125,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 17428269,oio-sds,202,https://github.com/open-io/oio-sds,APENAS LIB,,
 3082442,pycURL,201,https://github.com/pycURL/pycURL,,,
 824319,crava,201,https://github.com/CRAVA/crava,,,
-34966,bfgminer,199,https://github.com/luke-jr/bfgminer,,,LUIZ
+34966,bfgminer,199,https://github.com/luke-jr/bfgminer,PULL_REQUEST_ENVIADO,,LUIZ
 3264228,yarp,198,https://github.com/robotology/yarp,APENAS DE LIB,,ROMERO
 2881178,fluffos,197,https://github.com/fluffos/fluffos,APENAS DE LIB,,LUIZ
 10634,xbmc,196,https://github.com/FernetMenta/xbmc,APENAS DE LIB,,ROMERO
@@ -167,7 +167,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 7502359,ctrulib,167,https://github.com/smealum/ctrulib,,,
 193286,platform_external_qemu,166,https://github.com/mozilla-b2g/platform_external_qemu,,,
 7856,Cronus,165,https://github.com/Cronus-Emulator/Cronus,PULL_REQUEST_ENVIADO,,LUIZ
-76603,monitor-core,165,https://github.com/ganglia/monitor-core,,,LUIZLUIZ
+76603,monitor-core,165,https://github.com/ganglia/monitor-core,OUTRA_LIB,,LUIZ
 14877,git,165,https://github.com/git/git,,,
 5817753,tg,165,https://github.com/vysheng/tg,,,
 2768044,libwebsockets,164,https://github.com/warmcat/libwebsockets,,,
@@ -178,7 +178,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 5817448,bitmask_android,160,https://github.com/leapcode/bitmask_android,,,
 2842570,VIC,159,https://github.com/UW-Hydro/VIC,,,
 36129,twemproxy,158,https://github.com/twitter/twemproxy,,,
-12478,pkgng,157,https://github.com/pkgng/pkgng,,,LUIZ
+12478,pkgng,157,https://github.com/pkgng/pkgng,OUTRA_LIB,,LUIZ
 5714388,sabotage,157,https://github.com/sabotage-linux/sabotage,,,
 2483388,libreport,157,https://github.com/abrt/libreport,PULL_REQUEST_ENVIADO,,LUIZ
 200124,ostree,156,https://github.com/GNOME/ostree,,,
