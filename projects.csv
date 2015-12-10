@@ -163,7 +163,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 9840863,cocos2d-x-3rd-party-libs-bin,170,https://github.com/cocos2d/cocos2d-x-3rd-party-libs-bin,,,
 1364923,pspautotests,168,https://github.com/hrydgard/pspautotests,,,
 130441,htslib,168,https://github.com/samtools/htslib,,,
-16275631,AtomicGameEngine,167,https://github.com/AtomicGameEngine/AtomicGameEngine,,,LUIZ
+16275631,AtomicGameEngine,167,https://github.com/AtomicGameEngine/AtomicGameEngine,OUTRA_LIB,,LUIZ
 7502359,ctrulib,167,https://github.com/smealum/ctrulib,,,
 193286,platform_external_qemu,166,https://github.com/mozilla-b2g/platform_external_qemu,,,
 7856,Cronus,165,https://github.com/Cronus-Emulator/Cronus,,,LUIZ
