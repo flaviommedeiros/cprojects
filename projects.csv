@@ -163,10 +163,10 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 9840863,cocos2d-x-3rd-party-libs-bin,170,https://github.com/cocos2d/cocos2d-x-3rd-party-libs-bin,,,
 1364923,pspautotests,168,https://github.com/hrydgard/pspautotests,,,
 130441,htslib,168,https://github.com/samtools/htslib,,,
-16275631,AtomicGameEngine,167,https://github.com/AtomicGameEngine/AtomicGameEngine,,,
+16275631,AtomicGameEngine,167,https://github.com/AtomicGameEngine/AtomicGameEngine,,,LUIZ
 7502359,ctrulib,167,https://github.com/smealum/ctrulib,,,
 193286,platform_external_qemu,166,https://github.com/mozilla-b2g/platform_external_qemu,,,
-7856,Cronus,165,https://github.com/Cronus-Emulator/Cronus,,,
+7856,Cronus,165,https://github.com/Cronus-Emulator/Cronus,,,LUIZ
 76603,monitor-core,165,https://github.com/ganglia/monitor-core,,,
 14877,git,165,https://github.com/git/git,,,
 5817753,tg,165,https://github.com/vysheng/tg,,,
@@ -183,7 +183,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 2483388,libreport,157,https://github.com/abrt/libreport,,,
 200124,ostree,156,https://github.com/GNOME/ostree,,,
 24603,http-parser,156,https://github.com/joyent/http-parser,,,
-3277278,cocos2d-x,155,https://github.com/chengstory/cocos2d-x,,,
+3277278,cocos2d-x,155,https://github.com/chengstory/cocos2d-x,,,LUIZ
 15799856,pal,155,https://github.com/parallella/pal,,,
 12655533,device-sony-rhine,155,https://github.com/sonyxperiadev/device-sony-rhine,,,
 3434493,glfw,155,https://github.com/glfw/glfw,,,
