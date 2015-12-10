@@ -165,7 +165,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 130441,htslib,168,https://github.com/samtools/htslib,,,
 16275631,AtomicGameEngine,167,https://github.com/AtomicGameEngine/AtomicGameEngine,OUTRA_LIB,,LUIZ
 7502359,ctrulib,167,https://github.com/smealum/ctrulib,,,
-193286,platform_external_qemu,166,https://github.com/mozilla-b2g/platform_external_qemu,,,
+193286,platform_external_qemu,166,https://github.com/mozilla-b2g/platform_external_qemu,OUTRA_LIB,,LUIZ
 7856,Cronus,165,https://github.com/Cronus-Emulator/Cronus,PULL_REQUEST_ENVIADO,,LUIZ
 76603,monitor-core,165,https://github.com/ganglia/monitor-core,OUTRA_LIB,,LUIZ
 14877,git,165,https://github.com/git/git,,,
