@@ -1,0 +1,20 @@
+#ifndef HAVE_ASSUME_COMBINE_EXT
+if (cmb.combine_ext)
+#endif
+   {
+      CCMBEXT(GR_CMBX_TEXTURE_RGB, GR_FUNC_MODE_X,
+            GR_CMBX_ITALPHA, GR_FUNC_MODE_ZERO,
+            GR_CMBX_ITRGB, 0,
+            GR_CMBX_ZERO, 0);
+      T1_INTER_T0_USING_SHADEA();
+   }
+#ifndef HAVE_ASSUME_COMBINE_EXT
+   else
+   {
+      CCMB (GR_COMBINE_FUNCTION_SCALE_OTHER_ADD_LOCAL,
+            GR_COMBINE_FACTOR_TEXTURE_RGB,
+            GR_COMBINE_LOCAL_CONSTANT,
+            GR_COMBINE_OTHER_ITERATED);
+      CC_PRIM();
+      USE_T0();
+   }

@@ -1,0 +1,19 @@
+#ifndef HAVE_ASSUME_COMBINE_EXT
+if (cmb.combine_ext)
+#endif
+   {
+      ACMBEXT(GR_CMBX_TEXTURE_ALPHA, GR_FUNC_MODE_X,
+            GR_CMBX_ITALPHA, GR_FUNC_MODE_ZERO,
+            GR_CMBX_CONSTANT_ALPHA, 0,
+            GR_CMBX_ZERO, 0);
+      A_T0_INTER_T1_USING_SHADEA();
+   }
+#ifndef HAVE_ASSUME_COMBINE_EXT
+   else
+   {
+      ACMB (GR_COMBINE_FUNCTION_SCALE_OTHER,
+            GR_COMBINE_FACTOR_LOCAL,
+            GR_COMBINE_LOCAL_CONSTANT,
+            GR_COMBINE_OTHER_TEXTURE);
+      A_T0_INTER_T1_USING_FACTOR (0x7F);
+   }

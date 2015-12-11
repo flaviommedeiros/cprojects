@@ -1,0 +1,33 @@
+char *nearbyitems[] = {
+		"Shotgun",
+		"Grenade Launcher",
+		"Rocket Launcher",
+		"Plasmagun",
+		"Railgun",
+		"Lightning Gun",
+		"BFG10K",
+		"Quad Damage",
+		"Regeneration",
+		"Battle Suit",
+		"Speed",
+		"Invisibility",
+		"Flight",
+		"Armor",
+		"Heavy Armor",
+		"Red Flag",
+		"Blue Flag",
+#ifdef MISSIONPACK
+		"Nailgun",
+		"Prox Launcher",
+		"Chaingun",
+		"Scout",
+		"Guard",
+		"Doubler",
+		"Ammo Regen",
+		"Neutral Flag",
+		"Red Obelisk",
+		"Blue Obelisk",
+		"Neutral Obelisk",
+#endif
+		NULL
+	};
