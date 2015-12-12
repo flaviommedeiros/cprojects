@@ -1,0 +1,27 @@
+static const char * const alc880_models[ALC880_MODEL_LAST] = {
+	[ALC880_3ST]		= "3stack",
+	[ALC880_TCL_S700]	= "tcl",
+	[ALC880_3ST_DIG]	= "3stack-digout",
+	[ALC880_CLEVO]		= "clevo",
+	[ALC880_5ST]		= "5stack",
+	[ALC880_5ST_DIG]	= "5stack-digout",
+	[ALC880_W810]		= "w810",
+	[ALC880_Z71V]		= "z71v",
+	[ALC880_6ST]		= "6stack",
+	[ALC880_6ST_DIG]	= "6stack-digout",
+	[ALC880_ASUS]		= "asus",
+	[ALC880_ASUS_W1V]	= "asus-w1v",
+	[ALC880_ASUS_DIG]	= "asus-dig",
+	[ALC880_ASUS_DIG2]	= "asus-dig2",
+	[ALC880_UNIWILL_DIG]	= "uniwill",
+	[ALC880_UNIWILL_P53]	= "uniwill-p53",
+	[ALC880_FUJITSU]	= "fujitsu",
+	[ALC880_F1734]		= "F1734",
+	[ALC880_LG]		= "lg",
+	[ALC880_LG_LW]		= "lg-lw",
+	[ALC880_MEDION_RIM]	= "medion",
+#ifdef CONFIG_SND_DEBUG
+	[ALC880_TEST]		= "test",
+#endif
+	[ALC880_AUTO]		= "auto",
+};

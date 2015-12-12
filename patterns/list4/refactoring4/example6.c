@@ -1,4 +1,6 @@
-#ifdef SMC_USE_DMA
-if (!lp->txdma_active)
+#ifdef CONFIG_ISDN_AUDIO
+if (!info->vonline)
 #endif
-				netif_wake_queue(dev);
+				isdn_tty_check_esc(buf, m->mdmreg[REG_ESC], c,
+						   &(m->pluscount),
+						   &(m->lastplus));

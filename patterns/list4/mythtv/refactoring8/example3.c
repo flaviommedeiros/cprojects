@@ -1,0 +1,29 @@
+static const char * const const_names[] = {
+        "PI",
+        "E",
+        "iTex",
+        "pTex",
+        "tex",
+        "mv",
+        "fCode",
+        "iCount",
+        "mcVar",
+        "var",
+        "isI",
+        "isP",
+        "isB",
+        "avgQP",
+        "qComp",
+#if 0
+        "lastIQP",
+        "lastPQP",
+        "lastBQP",
+        "nextNonBQP",
+#endif
+        "avgIITex",
+        "avgPITex",
+        "avgPPTex",
+        "avgBPTex",
+        "avgTex",
+        NULL
+    };

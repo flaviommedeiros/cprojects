@@ -1,0 +1,55 @@
+struct snd_soc_dai atmel_ssc_dai[NUM_SSC_DEVICES] = {
+	{	.name = "atmel-ssc0",
+		.id = 0,
+		.suspend = atmel_ssc_suspend,
+		.resume = atmel_ssc_resume,
+		.playback = {
+			.channels_min = 1,
+			.channels_max = 2,
+			.rates = ATMEL_SSC_RATES,
+			.formats = ATMEL_SSC_FORMATS,},
+		.capture = {
+			.channels_min = 1,
+			.channels_max = 2,
+			.rates = ATMEL_SSC_RATES,
+			.formats = ATMEL_SSC_FORMATS,},
+		.ops = &atmel_ssc_dai_ops,
+		.private_data = &ssc_info[0],
+	},
+#if NUM_SSC_DEVICES == 3
+	{	.name = "atmel-ssc1",
+		.id = 1,
+		.suspend = atmel_ssc_suspend,
+		.resume = atmel_ssc_resume,
+		.playback = {
+			.channels_min = 1,
+			.channels_max = 2,
+			.rates = ATMEL_SSC_RATES,
+			.formats = ATMEL_SSC_FORMATS,},
+		.capture = {
+			.channels_min = 1,
+			.channels_max = 2,
+			.rates = ATMEL_SSC_RATES,
+			.formats = ATMEL_SSC_FORMATS,},
+		.ops = &atmel_ssc_dai_ops,
+		.private_data = &ssc_info[1],
+	},
+	{	.name = "atmel-ssc2",
+		.id = 2,
+		.suspend = atmel_ssc_suspend,
+		.resume = atmel_ssc_resume,
+		.playback = {
+			.channels_min = 1,
+			.channels_max = 2,
+			.rates = ATMEL_SSC_RATES,
+			.formats = ATMEL_SSC_FORMATS,},
+		.capture = {
+			.channels_min = 1,
+			.channels_max = 2,
+			.rates = ATMEL_SSC_RATES,
+			.formats = ATMEL_SSC_FORMATS,},
+		.ops = &atmel_ssc_dai_ops,
+		.private_data = &ssc_info[2],
+	},
+#endif
+};

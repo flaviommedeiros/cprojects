@@ -1,0 +1,29 @@
+static struct intc_vect vectors[] __initdata = {
+	/* IRQ0->5 are handled in setup-sh3.c */
+	INTC_VECT(TMU0, 0x400),       INTC_VECT(TMU1, 0x420),
+	INTC_VECT(TMU2, 0x440),       INTC_VECT(RTC, 0x480),
+	INTC_VECT(RTC, 0x4a0),	      INTC_VECT(RTC, 0x4c0),
+	INTC_VECT(SIM, 0x4e0),	      INTC_VECT(SIM, 0x500),
+	INTC_VECT(SIM, 0x520),	      INTC_VECT(SIM, 0x540),
+	INTC_VECT(WDT, 0x560),        INTC_VECT(REF_RCMI, 0x580),
+	/* H_UDI cannot be masked */  INTC_VECT(TMU_SUNI, 0x6c0),
+	INTC_VECT(USBF_SPD, 0x6e0),   INTC_VECT(DMAC1, 0x800),
+	INTC_VECT(DMAC1, 0x820),      INTC_VECT(DMAC1, 0x840),
+	INTC_VECT(DMAC1, 0x860),      INTC_VECT(LCDC, 0x900),
+#if defined(CONFIG_CPU_SUBTYPE_SH7720)
+	INTC_VECT(SSL, 0x980),
+#endif
+	INTC_VECT(USBFI, 0xa20),      INTC_VECT(USBFI, 0xa40),
+	INTC_VECT(USBHI, 0xa60),
+	INTC_VECT(DMAC2, 0xb80),      INTC_VECT(DMAC2, 0xba0),
+	INTC_VECT(ADC, 0xbe0),        INTC_VECT(SCIF0, 0xc00),
+	INTC_VECT(SCIF1, 0xc20),      INTC_VECT(PINT07, 0xc80),
+	INTC_VECT(PINT815, 0xca0),    INTC_VECT(SIOF0, 0xd00),
+	INTC_VECT(SIOF1, 0xd20),      INTC_VECT(TPU, 0xd80),
+	INTC_VECT(TPU, 0xda0),        INTC_VECT(TPU, 0xdc0),
+	INTC_VECT(TPU, 0xde0),        INTC_VECT(IIC, 0xe00),
+	INTC_VECT(MMC, 0xe80),        INTC_VECT(MMC, 0xea0),
+	INTC_VECT(MMC, 0xec0),        INTC_VECT(MMC, 0xee0),
+	INTC_VECT(CMT, 0xf00),        INTC_VECT(PCC, 0xf60),
+	INTC_VECT(AFEIF, 0xfe0),
+};

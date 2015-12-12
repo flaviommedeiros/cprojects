@@ -1,0 +1,31 @@
+struct mt9p012_i2c_reg_conf ipc_tbl1[] = {
+		{MT9P012_REG_RESET_REGISTER, MT9P012_RESET_REGISTER_PWOFF},
+		{REG_VT_PIX_CLK_DIV, mt9p012_regs.reg_pat[rt].vt_pix_clk_div},
+		{REG_VT_SYS_CLK_DIV, mt9p012_regs.reg_pat[rt].vt_sys_clk_div},
+		{REG_PRE_PLL_CLK_DIV, mt9p012_regs.reg_pat[rt].pre_pll_clk_div},
+		{REG_PLL_MULTIPLIER, mt9p012_regs.reg_pat[rt].pll_multiplier},
+		{REG_OP_PIX_CLK_DIV, mt9p012_regs.reg_pat[rt].op_pix_clk_div},
+		{REG_OP_SYS_CLK_DIV, mt9p012_regs.reg_pat[rt].op_sys_clk_div},
+#ifdef MT9P012_REV_7
+		{0x30B0, 0x0001},
+		{0x308E, 0xE060},
+		{0x3092, 0x0A52},
+		{0x3094, 0x4656},
+		{0x3096, 0x5652},
+		{0x30CA, 0x8006},
+		{0x312A, 0xDD02},
+		{0x312C, 0x00E4},
+		{0x3170, 0x299A},
+#endif
+		/* optimized settings for noise */
+		{0x3088, 0x6FF6},
+		{0x3154, 0x0282},
+		{0x3156, 0x0381},
+		{0x3162, 0x04CE},
+		{0x0204, 0x0010},
+		{0x0206, 0x0010},
+		{0x0208, 0x0010},
+		{0x020A, 0x0010},
+		{0x020C, 0x0010},
+		{MT9P012_REG_RESET_REGISTER, MT9P012_RESET_REGISTER_PWON},
+		};

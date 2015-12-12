@@ -1,0 +1,11 @@
+return type == RGUI_SETTINGS ||
+      type == RGUI_SETTINGS_CORE_OPTIONS ||
+      type == RGUI_SETTINGS_VIDEO_OPTIONS ||
+#ifdef HAVE_SHADER_MANAGER
+      type == RGUI_SETTINGS_SHADER_OPTIONS ||
+#endif
+      type == RGUI_SETTINGS_AUDIO_OPTIONS ||
+      type == RGUI_SETTINGS_DISK_OPTIONS ||
+      type == RGUI_SETTINGS_PATH_OPTIONS ||
+      type == RGUI_SETTINGS_OPTIONS ||
+      (type == RGUI_SETTINGS_INPUT_OPTIONS);

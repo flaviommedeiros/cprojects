@@ -1,0 +1,6 @@
+if ((pAd->OpMode == OPMODE_STA)
+		&& (OPSTATUS_TEST_FLAG(pAd, fOP_STATUS_MEDIA_STATE_CONNECTED)
+			)
+		&& !(OPSTATUS_TEST_FLAG(pAd, fOP_STATUS_DOZE))
+#ifdef RT2860
+		&& (pAd->bPCIclkOff == FALSE))
