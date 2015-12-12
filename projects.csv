@@ -211,7 +211,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 8325197,weechat,144,https://github.com/weechat/weechat,,,
 1448589,meterpreter,144,https://github.com/rapid7/meterpreter,,,
 1495871,eblob,143,https://github.com/reverbrain/eblob,,,
-3992211,mupen64plus-libretro,143,https://github.com/libretro/mupen64plus-libretro,,,
+3992211,mupen64plus-libretro,143,https://github.com/libretro/mupen64plus-libretro,PULL_REQUEST_ENVIADO,,LUIZ
 67060,util-linux,142,https://github.com/karelzak/util-linux,,,
 13043565,tempesta,142,https://github.com/natsys/tempesta,,,
 8672697,cocos2d-x,142,https://github.com/cocos2d-html5/cocos2d-x,,,
@@ -232,13 +232,13 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 1367125,PhoenixPilot,135,https://github.com/PhoenixPilot/PhoenixPilot,,,
 9654072,quick-cocos2d-x,134,https://github.com/chukong/quick-cocos2d-x,,,
 224190,enable,134,https://github.com/enthought/enable,,,
-1935455,ioq3,134,https://github.com/ioquake/ioq3,,,
+1935455,ioq3,134,https://github.com/ioquake/ioq3,PULL_REQUEST_ENVIADO,,LUIZ
 179221,tmLQCD,134,https://github.com/etmc/tmLQCD,,,
 5223989,starphleet,133,https://github.com/wballard/starphleet,,,
 5323438,pymssql,132,https://github.com/pymssql/pymssql,,,
 11753439,Bermuda-TheGame,132,https://github.com/PimV/Bermuda-TheGame,,,
 7842037,deadbeef,132,https://github.com/Alexey-Yakovenko/deadbeef,,,
-47197,ffi,132,https://github.com/ffi/ffi,,,
+47197,ffi,132,https://github.com/ffi/ffi,Pull_Request_Enviado,,LUIZ
 52992,tig,132,https://github.com/jonas/tig,,,
 130880,mate-panel,132,https://github.com/mate-desktop/mate-panel,,,
 3947597,wifidog-gateway,131,https://github.com/wifidog/wifidog-gateway,,,
@@ -260,7 +260,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 13828581,egoboo,123,https://github.com/egoboo/egoboo,,,
 17451350,naev,122,https://github.com/naev/naev,,,
 4884005,Sigma,122,https://github.com/adam4813/Sigma,,,
-12822893,qfusion,122,https://github.com/Warsow/qfusion,,,
+12822893,qfusion,122,https://github.com/Warsow/qfusion,PULL_REQUEST_ENVIADO,,LUIZ
 5374380,mongoose,121,https://github.com/cesanta/mongoose,,,
 5392523,oscam-emu,121,https://github.com/oscam-emu/oscam-emu,,,
 2782821,wcn36xx,121,https://github.com/KrasnikovEugene/wcn36xx,,,
@@ -279,7 +279,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 8839007,AGE,117,https://github.com/Another-Game-Engine/AGE,,,
 3149,omnibus,116,https://github.com/opscode/omnibus,,,
 78720,Composite,115,https://github.com/gparmer/Composite,,,
-5591439,jemalloc,115,https://github.com/jemalloc/jemalloc,,,
+5591439,jemalloc,115,https://github.com/jemalloc/jemalloc,EM_ANALISE,,LUIZ
 163424,opencryptoki,115,https://github.com/joylatten/opencryptoki,,,
 2260970,libsodium,115,https://github.com/jedisct1/libsodium,,,
 306936,hime,115,https://github.com/hime-ime/hime,,,
