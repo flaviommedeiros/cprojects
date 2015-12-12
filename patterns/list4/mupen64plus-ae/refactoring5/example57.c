@@ -1,0 +1,7 @@
+#ifdef RAM_OFFSET
+if((signed int)constmap[i][hr]+imm[i+2]<(signed int)0x80800000)
+            *value=constmap[i][hr]+imm[i+2]+(int)g_rdram-0x80000000;
+          else
+          #endif
+          // Precompute load address
+          *value=constmap[i][hr]+imm[i+2];

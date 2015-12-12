@@ -1,0 +1,32 @@
+DEVICE *sim_devices[] = { 
+    &cpu_dev,
+    &tlb_dev,
+    &rom_dev,
+    &nvr_dev,
+    &wtc_dev,
+    &sysd_dev,
+    &qba_dev,
+    &clk_dev,
+    &tti_dev,
+    &tto_dev,
+    &tdc_dev,
+    &dz_dev,
+    &vh_dev,
+    &cr_dev,
+    &lpt_dev,
+#if defined(USE_SIM_VIDEO) && defined(HAVE_LIBSDL)
+    &vc_dev,
+    &lk_dev,
+    &vs_dev,
+#endif
+    &rl_dev,
+    &rq_dev,
+    &rqb_dev,
+    &rqc_dev,
+    &rqd_dev,
+    &ts_dev,
+    &tq_dev,
+    &xq_dev,
+    &xqb_dev,
+    NULL
+    };

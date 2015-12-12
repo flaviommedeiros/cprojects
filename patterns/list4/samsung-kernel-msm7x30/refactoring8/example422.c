@@ -1,0 +1,15 @@
+static struct map_desc msm_8974_io_desc[] __initdata = {
+	MSM_CHIP_DEVICE(QGIC_DIST, MSM8974),
+	MSM_CHIP_DEVICE(QGIC_CPU, MSM8974),
+	MSM_CHIP_DEVICE(APCS_GCC, MSM8974),
+	MSM_CHIP_DEVICE(TLMM, MSM8974),
+	MSM_CHIP_DEVICE(MPM2_PSHOLD, MSM8974),
+	{
+		.virtual =  (unsigned long) MSM_SHARED_RAM_BASE,
+		.length =   MSM_SHARED_RAM_SIZE,
+		.type =     MT_DEVICE,
+	},
+#ifdef CONFIG_DEBUG_MSM8974_UART
+	MSM_DEVICE(DEBUG_UART),
+#endif
+};

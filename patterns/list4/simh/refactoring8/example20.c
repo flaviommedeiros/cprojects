@@ -1,0 +1,32 @@
+MTAB xq_mod[] = {
+  { MTAB_XTD|MTAB_VDV, 0, "ADDRESS", NULL,
+    NULL, &show_addr, NULL, "Qbus address" },
+  { MTAB_XTD|MTAB_VDV, 0, "VECTOR", NULL,
+    NULL, &show_vec, NULL,  "Interrupt vector" },
+  { MTAB_XTD|MTAB_VDV|MTAB_VALR, 0, "MAC", "MAC=xx:xx:xx:xx:xx:xx",
+    &xq_setmac, &xq_showmac, NULL, "MAC address" },
+  { MTAB_XTD|MTAB_VDV|MTAB_NMO, 0, "ETH", NULL,
+    NULL, &eth_show, NULL, "Display attachable devices" },
+  { MTAB_XTD|MTAB_VDV|MTAB_NMO, 0, "FILTERS", NULL,
+    NULL, &xq_show_filters, NULL, "Display address filters" },
+  { MTAB_XTD|MTAB_VDV|MTAB_NMO, 0, "STATS", "STATS",
+    &xq_set_stats, &xq_show_stats, NULL, "Display or reset statistics" },
+  { MTAB_XTD|MTAB_VDV|MTAB_VALR, 0, "TYPE", "TYPE={DEQNA|DELQA|DELQA-T}",
+    &xq_set_type, &xq_show_type, NULL, "Display current device type being simulated" },
+#ifdef USE_READER_THREAD
+  { MTAB_XTD|MTAB_VDV|MTAB_VALR, 0, "POLL", "POLL={DEFAULT|DISABLED|4..2500|DELAY=nnn}",
+    &xq_set_poll, &xq_show_poll, NULL, "Display the current polling mode" },
+#else
+  { MTAB_XTD|MTAB_VDV, 0, "POLL", "POLL={DEFAULT|DISABLED|4..2500}",
+    &xq_set_poll, &xq_show_poll, NULL, "Display the current polling mode" },
+#endif
+  { MTAB_XTD|MTAB_VDV|MTAB_VALR, 0, "SANITY", "SANITY={ON|OFF}",
+    &xq_set_sanity, &xq_show_sanity, NULL, "Sanity timer" },
+  { MTAB_XTD|MTAB_VDV|MTAB_VALR, 0, "THROTTLE", "THROTTLE=DISABLED|TIME=n{;BURST=n{;DELAY=n}}",
+    &xq_set_throttle, &xq_show_throttle, NULL, "Display transmit throttle configuration" },
+  { MTAB_XTD|MTAB_VDV|MTAB_VALR, 0, "DEQNALOCK", "DEQNALOCK={ON|OFF}",
+    &xq_set_lockmode, &xq_show_lockmode, NULL, "DEQNA-Lock mode" },
+  { MTAB_XTD|MTAB_VDV,           0, "LEDS", NULL,
+    NULL, &xq_show_leds, NULL, "Display status LEDs" },
+  { 0 },
+};

@@ -1,0 +1,7 @@
+const u32 canvas_tab[4] = {
+#ifdef NV21
+        0x0d0d0c, 0x0f0f0e, 0x171716, 0x191918
+#else
+        0x0e0d0c, 0x181716, 0x222120, 0x252423
+#endif
+    };

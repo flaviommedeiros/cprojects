@@ -1,0 +1,31 @@
+DUK_LOCAL const duk__one_arg_func duk__one_arg_funcs[] = {
+#if defined(DUK_USE_AVOID_PLATFORM_FUNCPTRS)
+	duk__fabs,
+	duk__acos,
+	duk__asin,
+	duk__atan,
+	duk__ceil,
+	duk__cos,
+	duk__exp,
+	duk__floor,
+	duk__log,
+	duk__round_fixed,
+	duk__sin,
+	duk__sqrt,
+	duk__tan
+#else
+	DUK_FABS,
+	DUK_ACOS,
+	DUK_ASIN,
+	DUK_ATAN,
+	DUK_CEIL,
+	DUK_COS,
+	DUK_EXP,
+	DUK_FLOOR,
+	DUK_LOG,
+	duk__round_fixed,
+	DUK_SIN,
+	DUK_SQRT,
+	DUK_TAN
+#endif
+};

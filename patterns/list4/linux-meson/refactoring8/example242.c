@@ -1,0 +1,80 @@
+static const struct ni_board_struct ni_boards[] = {
+	{
+		.device_id	= 0x010d,
+		.name		= "DAQCard-ai-16xe-50",
+		.n_adchan	= 16,
+		.adbits		= 16,
+		.ai_fifo_depth	= 1024,
+		.gainlkup	= ai_gain_8,
+		.ai_speed	= 5000,
+		.num_p0_dio_channels = 8,
+		.caldac		= { dac8800, dac8043 },
+	}, {
+		.device_id	= 0x010c,
+		.name		= "DAQCard-ai-16e-4",
+		.n_adchan	= 16,
+		.adbits		= 12,
+		.ai_fifo_depth	= 1024,
+		.gainlkup	= ai_gain_16,
+		.ai_speed	= 4000,
+		.num_p0_dio_channels = 8,
+		.caldac		= { mb88341 },		/* verified */
+	}, {
+		.device_id	= 0x02c4,
+		.name		= "DAQCard-6062E",
+		.n_adchan	= 16,
+		.adbits		= 12,
+		.ai_fifo_depth	= 8192,
+		.gainlkup	= ai_gain_16,
+		.ai_speed	= 2000,
+		.n_aochan	= 2,
+		.aobits		= 12,
+		.ao_fifo_depth	= 2048,
+		.ao_range_table	= &range_bipolar10,
+		.ao_speed	= 1176,
+		.num_p0_dio_channels = 8,
+		.caldac		= { ad8804_debug },	/* verified */
+	 }, {
+		/* specs incorrect! */
+		.device_id	= 0x075e,
+		.name		= "DAQCard-6024E",
+		.n_adchan	= 16,
+		.adbits		= 12,
+		.ai_fifo_depth	= 1024,
+		.gainlkup	= ai_gain_4,
+		.ai_speed	= 5000,
+		.n_aochan	= 2,
+		.aobits		= 12,
+		.ao_range_table	= &range_bipolar10,
+		.ao_speed	= 1000000,
+		.num_p0_dio_channels = 8,
+		.caldac		= { ad8804_debug },
+	}, {
+		/* specs incorrect! */
+		.device_id	= 0x0245,
+		.name		= "DAQCard-6036E",
+		.n_adchan	= 16,
+		.adbits		= 16,
+		.ai_fifo_depth	= 1024,
+		.alwaysdither	= 1,
+		.gainlkup	= ai_gain_4,
+		.ai_speed	= 5000,
+		.n_aochan	= 2,
+		.aobits		= 16,
+		.ao_range_table	= &range_bipolar10,
+		.ao_speed	= 1000000,
+		.num_p0_dio_channels = 8,
+		.caldac		= { ad8804_debug },
+	 },
+#if 0
+	{
+		.device_id	= 0x0000,	/* unknown */
+		.name		= "DAQCard-6715",
+		.n_aochan	= 8,
+		.aobits		= 12,
+		.ao_671x	= 8192,
+		.num_p0_dio_channels = 8,
+		.caldac		= { mb88341, mb88341 },
+	},
+#endif
+};

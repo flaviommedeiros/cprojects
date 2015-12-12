@@ -1,16 +1,14 @@
-#ifdef RT2860
-if (OPSTATUS_TEST_FLAG(pAd, fOP_STATUS_DOZE) ||
-			RTMP_SET_PSFLAG(pAd, fRTMP_PS_SET_PCI_CLK_OFF_COMMAND) ||
-			RTMP_TEST_FLAG(pAd, fRTMP_ADAPTER_IDLE_RADIO_OFF))
+#ifndef	OHCI_VERBOSE_DEBUG
+if (status != 0)
 #endif
-#ifdef RT2870
-		if (OPSTATUS_TEST_FLAG(pAd, fOP_STATUS_DOZE))
-#endif
-        {
-#ifdef RT2860
-		    AsicForceWakeup(pAd, RTMP_HALT);
-#endif
-#ifdef RT2870
-		    AsicForceWakeup(pAd, TRUE);
-#endif
-        }
+	dbg("%s %p dev=%d ep=%d%s-%s flags=%x len=%d/%d stat=%d",
+		    str,
+		    urb,
+		    usb_pipedevice (pipe),
+		    usb_pipeendpoint (pipe),
+		    usb_pipeout (pipe)? "out" : "in",
+		    pipestring (pipe),
+		    urb->transfer_flags,
+		    urb->actual_length,
+		    urb->transfer_buffer_length,
+		    status);
