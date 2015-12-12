@@ -1,0 +1,44 @@
+switch ((enum ha_base_keytype) keyseg->type) {
+    case HA_KEYTYPE_INT8:
+      RT_OVL_AREA_KORR(int8, mi_sint1korr, 1);
+      break;
+    case HA_KEYTYPE_BINARY:
+      RT_OVL_AREA_KORR(uint8, mi_uint1korr, 1);
+      break;
+    case HA_KEYTYPE_SHORT_INT:
+      RT_OVL_AREA_KORR(int16, mi_sint2korr, 2);
+      break;
+    case HA_KEYTYPE_USHORT_INT:
+      RT_OVL_AREA_KORR(uint16, mi_uint2korr, 2);
+      break;
+    case HA_KEYTYPE_INT24:
+      RT_OVL_AREA_KORR(int32, mi_sint3korr, 3);
+      break;
+    case HA_KEYTYPE_UINT24:
+      RT_OVL_AREA_KORR(uint32, mi_uint3korr, 3);
+      break;
+    case HA_KEYTYPE_LONG_INT:
+      RT_OVL_AREA_KORR(int32, mi_sint4korr, 4);
+      break;
+    case HA_KEYTYPE_ULONG_INT:
+      RT_OVL_AREA_KORR(uint32, mi_uint4korr, 4);
+      break;
+#ifdef HAVE_LONG_LONG
+    case HA_KEYTYPE_LONGLONG:
+      RT_OVL_AREA_KORR(longlong, mi_sint8korr, 8);
+      break;
+    case HA_KEYTYPE_ULONGLONG:
+      RT_OVL_AREA_KORR(longlong, mi_sint8korr, 8);
+      break;
+#endif
+    case HA_KEYTYPE_FLOAT:
+      RT_OVL_AREA_GET(float, mi_float4get, 4);
+      break;
+    case HA_KEYTYPE_DOUBLE:
+      RT_OVL_AREA_GET(double, mi_float8get, 8);
+      break;
+    case HA_KEYTYPE_END:
+      return res;
+    default:
+      return -1;
+    }

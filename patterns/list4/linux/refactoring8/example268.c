@@ -1,0 +1,45 @@
+struct dbg_port ports[] =
+{
+  {
+    0,
+    regi_ser0,
+    0,
+    115200,
+    'N',
+    8
+  },
+  {
+    1,
+    regi_ser1,
+    0,
+    115200,
+    'N',
+    8
+  },
+  {
+    2,
+    regi_ser2,
+    0,
+    115200,
+    'N',
+    8
+  },
+  {
+    3,
+    regi_ser3,
+    0,
+    115200,
+    'N',
+    8
+  },
+#if CONFIG_ETRAX_SERIAL_PORTS == 5
+  {
+    4,
+    regi_ser4,
+    0,
+    115200,
+    'N',
+    8
+  },
+#endif
+};

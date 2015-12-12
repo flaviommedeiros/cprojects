@@ -1,0 +1,11 @@
+static const arg_desc_t error_actions[] = {
+	{"panic", 1 << REISERFS_ERROR_PANIC,
+	 (1 << REISERFS_ERROR_RO | 1 << REISERFS_ERROR_CONTINUE)},
+	{"ro-remount", 1 << REISERFS_ERROR_RO,
+	 (1 << REISERFS_ERROR_PANIC | 1 << REISERFS_ERROR_CONTINUE)},
+#ifdef REISERFS_JOURNAL_ERROR_ALLOWS_NO_LOG
+	{"continue", 1 << REISERFS_ERROR_CONTINUE,
+	 (1 << REISERFS_ERROR_PANIC | 1 << REISERFS_ERROR_RO)},
+#endif
+	{NULL, 0, 0},
+};

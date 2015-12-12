@@ -1,0 +1,23 @@
+#ifdef PNG_READ_GAMMA_SUPPORTED
+if (gamma_table != NULL)
+                  {
+                     sp = row;
+                     for (i = 0; i < row_width; i++, sp++)
+                     {
+                        if (*sp == png_ptr->trans_color.gray)
+                           *sp = (png_byte)png_ptr->background.gray;
+
+                        else
+                           *sp = gamma_table[*sp];
+                     }
+                  }
+                  else
+#endif
+                  {
+                     sp = row;
+                     for (i = 0; i < row_width; i++, sp++)
+                     {
+                        if (*sp == png_ptr->trans_color.gray)
+                           *sp = (png_byte)png_ptr->background.gray;
+                     }
+                  }
