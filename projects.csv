@@ -234,7 +234,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 224190,enable,134,https://github.com/enthought/enable,,,
 1935455,ioq3,134,https://github.com/ioquake/ioq3,PULL_REQUEST_ENVIADO,,LUIZ
 179221,tmLQCD,134,https://github.com/etmc/tmLQCD,Inválido,,Romero
-5223989,starphleet,133,https://github.com/wballard/starphleet,,,
+5223989,starphleet,133,https://github.com/wballard/starphleet,Apenas_De_Lib,,Romero
 5323438,pymssql,132,https://github.com/pymssql/pymssql,,,
 11753439,Bermuda-TheGame,132,https://github.com/PimV/Bermuda-TheGame,,,
 7842037,deadbeef,132,https://github.com/Alexey-Yakovenko/deadbeef,,,
@@ -274,7 +274,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 6591900,hxcpp,118,https://github.com/HaxeFoundation/hxcpp,,,
 9866,apitrace,117,https://github.com/apitrace/apitrace,,,
 24128668,SPTHREE,117,https://github.com/gigasii/SPTHREE,,,
-15872,slurm,117,https://github.com/SchedMD/slurm,,,
+15872,slurm,117,https://github.com/SchedMD/slurm,Em_Andamento,,Romero
 43653,uzbl,117,https://github.com/Dieterbe/uzbl,,,
 8839007,AGE,117,https://github.com/Another-Game-Engine/AGE,,,
 3149,omnibus,116,https://github.com/opscode/omnibus,,,
@@ -310,7 +310,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 24204027,domoticz,106,https://github.com/EddyK69/domoticz,,,
 60573,Wifly_Light,105,https://github.com/polybassa/Wifly_Light,,,
 21041244,f1rmware,104,https://github.com/rad1o/f1rmware,,,
-5383,smartos-live,104,https://github.com/joyent/smartos-live,,,
+5383,smartos-live,104,https://github.com/joyent/smartos-live,Apenas_De_Lib,,Romero
 4898666,clBLAS,104,https://github.com/clMathLibraries/clBLAS,,,
 53887,libetpan,104,https://github.com/dinhviethoa/libetpan,,,
 8572,tlsdate,103,https://github.com/ioerror/tlsdate,Inválido,,Romero
@@ -434,7 +434,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 28149,psych,82,https://github.com/tenderlove/psych,,,
 204325,rustsqlite,81,https://github.com/linuxfood/rustsqlite,,,
 3417069,libopencm3-examples,81,https://github.com/libopencm3/libopencm3-examples,,,
-117952,statsite,81,https://github.com/armon/statsite,,,
+117952,statsite,81,https://github.com/armon/statsite,Apenas_De_Lib,,Romero
 55698,wt,81,https://github.com/kdeforche/wt,,,
 58704,genode,81,https://github.com/genodelabs/genode,,,
 9299251,galera,81,https://github.com/codership/galera,,,
