@@ -300,7 +300,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 1911608,cmus,110,https://github.com/cmus/cmus,,,
 6635811,freeminer,110,https://github.com/freeminer/freeminer,,,
 9650759,Open-AVB,110,https://github.com/AVnu/Open-AVB,,,
-9808205,stb,109,https://github.com/nothings/stb,,,
+9808205,stb,109,https://github.com/nothings/stb,Em_Andamento,,Romero
 61000,media-service-upnp,109,https://github.com/01org/media-service-upnp,,,
 8325829,EusLisp,108,https://github.com/euslisp/EusLisp,,,
 8590212,cc65,107,https://github.com/cc65/cc65,,,
@@ -353,7 +353,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 430741,mate-power-manager,95,https://github.com/mate-desktop/mate-power-manager,,,
 963930,dsme,95,https://github.com/nemomobile/dsme,,,
 16839681,linux-meson,95,https://github.com/endlessm/linux-meson,,,
-10748827,swoole-src,94,https://github.com/swoole/swoole-src,Em_Andamento,,Romero
+10748827,swoole-src,94,https://github.com/swoole/swoole-src,Pull_Request_Enviado,,Romero
 1596,pyuv,94,https://github.com/saghul/pyuv,,,
 26083,The-Powder-Toy,94,https://github.com/FacialTurd/The-Powder-Toy,,,
 34790,Core,94,https://github.com/YafaRay/Core,,,
@@ -379,7 +379,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 3468479,Gauche,91,https://github.com/shirok/Gauche,,,
 3802540,forked-daapd,90,https://github.com/ejurgensen/forked-daapd,,,
 208099,ikran,90,https://github.com/ethanhugg/ikran,,,
-23670,stud,90,https://github.com/bumptech/stud,,,
+23670,stud,90,https://github.com/bumptech/stud,Inválido,,Romero
 1402597,smack,90,https://github.com/smack-team/smack,,,
 24539050,lecture,90,https://github.com/cornell-cs5220-f15/lecture,,,
 4832216,eudaq,90,https://github.com/eudaq/eudaq,,,
