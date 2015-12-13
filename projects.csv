@@ -139,7 +139,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 6490831,wren,189,https://github.com/munificent/wren,,,
 774758,rrdtool-1.x,189,https://github.com/oetiker/rrdtool-1.x,Pul_Request_Enviado,,Romero
 4778068,MDSplus,187,https://github.com/MDSplus/MDSplus,,,Wesley
-13364936,Sqlite3.07.14,187,https://github.com/HuiLi/Sqlite3.07.14,,,
+13364936,Sqlite3.07.14,187,https://github.com/HuiLi/Sqlite3.07.14,,,Wesley
 10401646,libelektra,186,https://github.com/ElektraInitiative/libelektra,Pull_Request_Enviado,,Romero
 13485836,stack,186,https://github.com/IRATI/stack,Bugado,,Romero
 203564,rock,184,https://github.com/nddrylliog/rock,Apenas_De_Lib,,Romero
@@ -516,4 +516,3 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 4084062,qfusion,69,https://github.com/Warsow/qfusion,,,
 11624152,genie,69,https://github.com/bkaradzic/genie,,,
 2260397,faunus,69,https://github.com/mlund/faunus,,,
-
