@@ -448,7 +448,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 16356173,openjpeg,80,https://github.com/uclouvain/openjpeg,,,
 2662457,satyr,80,https://github.com/abrt/satyr,,,
 12890266,CommonMark,80,https://github.com/jgm/CommonMark,,,
-4503463,image,80,https://github.com/torch/image,VERIFICAR_RFCT4_TH,,Romero
+4503463,image,80,https://github.com/torch/image,,,
 3937397,noobs,79,https://github.com/raspberrypi/noobs,,,
 6298302,meta-sunxi,79,https://github.com/linux-sunxi/meta-sunxi,,,
 5587233,civetweb,79,https://github.com/bel2125/civetweb,,,
@@ -498,7 +498,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 5402936,xenserver-core,72,https://github.com/xapi-project/xenserver-core,,,
 6854712,tlm,72,https://github.com/01org/tlm,,,
 4697485,libass,72,https://github.com/libass/libass,,,
-101936,torch,71,https://github.com/andresy/torch,,,
+101936,torch,71,https://github.com/andresy/torch,EM_ANDAMENTO,,Romero
 6271190,lua_sandbox,71,https://github.com/mozilla-services/lua_sandbox,,,
 5881839,marco,71,https://github.com/mate-desktop/marco,,,
 63836,renderer-service-upnp,71,https://github.com/01org/renderer-service-upnp,,,
