@@ -71,7 +71,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 8087,xbmc,269,https://github.com/opdenkamp/xbmc,,,
 6854464,rsyslog,268,https://github.com/rsyslog/rsyslog,Pull_Request_Enviado,,Romero
 16032585,libfabric-cray,268,https://github.com/ofi-cray/libfabric-cray,,,
-4537328,torch7,264,https://github.com/torch/torch7,VERIFICAR_RFCT4_TH,,Romero
+4537328,torch7,264,https://github.com/torch/torch7,INVÁLIDO,,Romero
 8335,libfreenect,263,https://github.com/OpenKinect/libfreenect,Apenas_De_Lib,,Romero
 14394,dava.framework,263,https://github.com/dava/dava.framework,,,
 146495,native,261,https://github.com/hrydgard/native,Apenas_De_Lib,,Romero
@@ -213,7 +213,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 1495871,eblob,143,https://github.com/reverbrain/eblob,,,
 3992211,mupen64plus-libretro,143,https://github.com/libretro/mupen64plus-libretro,PULL_REQUEST_ENVIADO,,LUIZ
 67060,util-linux,142,https://github.com/karelzak/util-linux,,,
-13043565,tempesta,142,https://github.com/natsys/tempesta,,,
+13043565,tempesta,142,https://github.com/natsys/tempesta,Inválido,,Romero
 8672697,cocos2d-x,142,https://github.com/cocos2d-html5/cocos2d-x,,,
 30385,git-po,141,https://github.com/git-l10n/git-po,,,
 2403765,libswiftnav,140,https://github.com/swift-nav/libswiftnav,,,
@@ -233,13 +233,13 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 9654072,quick-cocos2d-x,134,https://github.com/chukong/quick-cocos2d-x,,,
 224190,enable,134,https://github.com/enthought/enable,,,
 1935455,ioq3,134,https://github.com/ioquake/ioq3,PULL_REQUEST_ENVIADO,,LUIZ
-179221,tmLQCD,134,https://github.com/etmc/tmLQCD,,,
+179221,tmLQCD,134,https://github.com/etmc/tmLQCD,Inválido,,Romero
 5223989,starphleet,133,https://github.com/wballard/starphleet,,,
 5323438,pymssql,132,https://github.com/pymssql/pymssql,,,
 11753439,Bermuda-TheGame,132,https://github.com/PimV/Bermuda-TheGame,,,
 7842037,deadbeef,132,https://github.com/Alexey-Yakovenko/deadbeef,,,
 47197,ffi,132,https://github.com/ffi/ffi,Pull_Request_Enviado,,LUIZ
-52992,tig,132,https://github.com/jonas/tig,,,
+52992,tig,132,https://github.com/jonas/tig,Apenas_De_Lib,,Romero
 130880,mate-panel,132,https://github.com/mate-desktop/mate-panel,,,
 3947597,wifidog-gateway,131,https://github.com/wifidog/wifidog-gateway,,,
 10468836,mraa,131,https://github.com/intel-iot-devkit/mraa,,,
@@ -295,7 +295,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 3045,memcached,112,https://github.com/memcached/memcached,,,
 868274,webvtt,112,https://github.com/humphd/webvtt,,,
 7837,webserver,111,https://github.com/cherokee/webserver,,,
-3372543,tcpdump,111,https://github.com/the-tcpdump-group/tcpdump,,,
+3372543,tcpdump,111,https://github.com/the-tcpdump-group/tcpdump,Em_Andamento,,Romero
 2258513,rtl_433,111,https://github.com/merbanan/rtl_433,,,
 1911608,cmus,110,https://github.com/cmus/cmus,,,
 6635811,freeminer,110,https://github.com/freeminer/freeminer,,,
@@ -313,15 +313,15 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 5383,smartos-live,104,https://github.com/joyent/smartos-live,,,
 4898666,clBLAS,104,https://github.com/clMathLibraries/clBLAS,,,
 53887,libetpan,104,https://github.com/dinhviethoa/libetpan,,,
-8572,tlsdate,103,https://github.com/ioerror/tlsdate,,,
+8572,tlsdate,103,https://github.com/ioerror/tlsdate,Inválido,,Romero
 20110,grbl,103,https://github.com/grbl/grbl,,,
 53614,tup,103,https://github.com/gittup/tup,,,
 60409,ngx_mruby,103,https://github.com/matsumoto-r/ngx_mruby,,,
 3994246,licode,103,https://github.com/ging/licode,,,
 67152,ASF_MapReady,101,https://github.com/rudigens/ASF_MapReady,EM_ANALISE,,LUIZ
-67292,tinc,101,https://github.com/gsliepen/tinc,,,
+67292,tinc,101,https://github.com/gsliepen/tinc,Inválido,,Romero
 10895764,IntWars,101,https://github.com/Elyotna/IntWars,,,
-535617,teeworlds,100,https://github.com/DDRace/teeworlds,,,
+535617,teeworlds,100,https://github.com/DDRace/teeworlds,Inválido,,Romero
 3700405,libxively,100,https://github.com/xively/libxively,,,
 3838791,turbo,100,https://github.com/kernelsauce/turbo,INVÁLIDO,,Romero
 103348,Monocle-Engine,100,https://github.com/zaphire/Monocle-Engine,,,
@@ -419,7 +419,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 9186451,hhvm-third-party,84,https://github.com/hhvm/hhvm-third-party,,,
 2441736,SystemesInformatiques,84,https://github.com/obonaventure/SystemesInformatiques,,,
 5589581,pynacl,84,https://github.com/pyca/pynacl,,,
-89813,tmk_keyboard,84,https://github.com/tmk/tmk_keyboard,,,
+89813,tmk_keyboard,84,https://github.com/tmk/tmk_keyboard,Apenas_De_Lib,,Romero
 16477209,Comm-Audio,84,https://github.com/Team-Chimera/Comm-Audio,,,
 27896,RetroArch,84,https://github.com/Themaister/RetroArch,,,
 2652874,nut,84,https://github.com/networkupstools/nut,,,
@@ -448,7 +448,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 16356173,openjpeg,80,https://github.com/uclouvain/openjpeg,,,
 2662457,satyr,80,https://github.com/abrt/satyr,,,
 12890266,CommonMark,80,https://github.com/jgm/CommonMark,,,
-4503463,image,80,https://github.com/torch/image,EM_ANDAMENTO,,Romero
+4503463,image,80,https://github.com/torch/image,VERIFICAR_RFCT4_TH,,Romero
 3937397,noobs,79,https://github.com/raspberrypi/noobs,,,
 6298302,meta-sunxi,79,https://github.com/linux-sunxi/meta-sunxi,,,
 5587233,civetweb,79,https://github.com/bel2125/civetweb,,,
@@ -456,7 +456,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 580511,dsploit,79,https://github.com/evilsocket/dsploit,,,
 2621939,openMVG,78,https://github.com/openMVG/openMVG,,,
 5377208,contrail-vrouter,78,https://github.com/Juniper/contrail-vrouter,,,
-6512146,tcpreplay,78,https://github.com/appneta/tcpreplay,,,
+6512146,tcpreplay,78,https://github.com/appneta/tcpreplay,Apenas_De_Lib,,Romero
 16606841,mbedtls,78,https://github.com/ARMmbed/mbedtls,,,
 435951,musicdroid,78,https://github.com/Catrobat/musicdroid,,,
 177951,ottos,78,https://github.com/ramsondon/ottos,,,
@@ -474,7 +474,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 877535,librdkafka,76,https://github.com/edenhill/librdkafka,,,
 32073,libmaple,76,https://github.com/leaflabs/libmaple,,,
 17599090,proyecto_subtes,76,https://github.com/Subtes/proyecto_subtes,,,
-34657,zlib,75,https://github.com/madler/zlib,EM_ANDAMENTO,,Romero
+34657,zlib,75,https://github.com/madler/zlib,Pull_Request_Enviado,,Romero
 1494728,rust-opengles,75,https://github.com/mozilla-servo/rust-opengles,,,
 3795185,ali_kernel,75,https://github.com/alibaba/ali_kernel,,,
 10486668,smartsnmp,74,https://github.com/credosemi/smartsnmp,,,
