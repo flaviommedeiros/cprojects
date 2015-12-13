@@ -71,7 +71,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 8087,xbmc,269,https://github.com/opdenkamp/xbmc,,,
 6854464,rsyslog,268,https://github.com/rsyslog/rsyslog,Pull_Request_Enviado,,Romero
 16032585,libfabric-cray,268,https://github.com/ofi-cray/libfabric-cray,,,
-4537328,torch7,264,https://github.com/torch/torch7,Inválido,,Romero
+4537328,torch7,264,https://github.com/torch/torch7,VERIFICAR_RFCT4_TH,,Romero
 8335,libfreenect,263,https://github.com/OpenKinect/libfreenect,Apenas_De_Lib,,Romero
 14394,dava.framework,263,https://github.com/dava/dava.framework,,,
 146495,native,261,https://github.com/hrydgard/native,Apenas_De_Lib,,Romero
