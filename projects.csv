@@ -295,7 +295,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 3045,memcached,112,https://github.com/memcached/memcached,,,
 868274,webvtt,112,https://github.com/humphd/webvtt,,,
 7837,webserver,111,https://github.com/cherokee/webserver,,,
-3372543,tcpdump,111,https://github.com/the-tcpdump-group/tcpdump,Em_Andamento,,Romero
+3372543,tcpdump,111,https://github.com/the-tcpdump-group/tcpdump,Pull_Request_Enviado,,Romero
 2258513,rtl_433,111,https://github.com/merbanan/rtl_433,,,
 1911608,cmus,110,https://github.com/cmus/cmus,,,
 6635811,freeminer,110,https://github.com/freeminer/freeminer,,,
@@ -353,7 +353,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 430741,mate-power-manager,95,https://github.com/mate-desktop/mate-power-manager,,,
 963930,dsme,95,https://github.com/nemomobile/dsme,,,
 16839681,linux-meson,95,https://github.com/endlessm/linux-meson,,,
-10748827,swoole-src,94,https://github.com/swoole/swoole-src,,,
+10748827,swoole-src,94,https://github.com/swoole/swoole-src,Em_Andamento,,Romero
 1596,pyuv,94,https://github.com/saghul/pyuv,,,
 26083,The-Powder-Toy,94,https://github.com/FacialTurd/The-Powder-Toy,,,
 34790,Core,94,https://github.com/YafaRay/Core,,,
@@ -394,7 +394,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 698780,hkl,89,https://github.com/hkl/hkl,,,
 11203467,gst-player,89,https://github.com/sdroege/gst-player,,,
 67783,simh,88,https://github.com/simh/simh,,,
-6229610,syslog-ng-incubator,88,https://github.com/balabit/syslog-ng-incubator,,,
+6229610,syslog-ng-incubator,88,https://github.com/balabit/syslog-ng-incubator,Inválido,,Romero
 2631521,moai-dev,88,https://github.com/mindsnacks/moai-dev,,,
 209388,xvisor,88,https://github.com/xvisor/xvisor,INVÁLIDO,,Romero
 2997720,acpica,88,https://github.com/acpica/acpica,,,
@@ -498,7 +498,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 5402936,xenserver-core,72,https://github.com/xapi-project/xenserver-core,,,
 6854712,tlm,72,https://github.com/01org/tlm,,,
 4697485,libass,72,https://github.com/libass/libass,,,
-101936,torch,71,https://github.com/andresy/torch,EM_ANDAMENTO,,Romero
+101936,torch,71,https://github.com/andresy/torch,Deprecated,,Romero
 6271190,lua_sandbox,71,https://github.com/mozilla-services/lua_sandbox,,,
 5881839,marco,71,https://github.com/mate-desktop/marco,,,
 63836,renderer-service-upnp,71,https://github.com/01org/renderer-service-upnp,,,
