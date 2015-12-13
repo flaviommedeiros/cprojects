@@ -323,7 +323,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 10895764,IntWars,101,https://github.com/Elyotna/IntWars,,,
 535617,teeworlds,100,https://github.com/DDRace/teeworlds,,,
 3700405,libxively,100,https://github.com/xively/libxively,,,
-3838791,turbo,100,https://github.com/kernelsauce/turbo,,,
+3838791,turbo,100,https://github.com/kernelsauce/turbo,INVÁLIDO,,Romero
 103348,Monocle-Engine,100,https://github.com/zaphire/Monocle-Engine,,,
 9738577,luv,100,https://github.com/luvit/luv,,,
 52726,jansson,100,https://github.com/akheron/jansson,,,
@@ -405,7 +405,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 3181862,cc65,87,https://github.com/oliverschmidt/cc65,,,
 759030,php-amqp,87,https://github.com/pdezwart/php-amqp,,,
 3906332,RaceCapture-Pro_firmware,87,https://github.com/autosportlabs/RaceCapture-Pro_firmware,,,
-960114,trema-edge,87,https://github.com/trema/trema-edge,,,
+960114,trema-edge,87,https://github.com/trema/trema-edge,INVÁLIDO,,Romero
 3452879,pharo-vm,87,https://github.com/pharo-project/pharo-vm,,,
 1433485,icecream,87,https://github.com/icecc/icecream,,,
 195079,msgpack-python,87,https://github.com/msgpack/msgpack-python,,,
@@ -413,7 +413,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 6305761,liblouis,86,https://github.com/liblouis/liblouis,,,
 16117,mate-desktop,86,https://github.com/mate-desktop/mate-desktop,,,
 83891,Unity,86,https://github.com/ThrowTheSwitch/Unity,,,
-1896416,xrdp,86,https://github.com/neutrinolabs/xrdp,EM_ANDAMENTO,,Romero
+1896416,xrdp,86,https://github.com/neutrinolabs/xrdp,Pull_Request_Enviado,,Romero
 8796303,mal,85,https://github.com/kanaka/mal,,,
 8950721,archipelago,85,https://github.com/grnet/archipelago,,,
 9186451,hhvm-third-party,84,https://github.com/hhvm/hhvm-third-party,,,
@@ -448,7 +448,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 16356173,openjpeg,80,https://github.com/uclouvain/openjpeg,,,
 2662457,satyr,80,https://github.com/abrt/satyr,,,
 12890266,CommonMark,80,https://github.com/jgm/CommonMark,,,
-4503463,image,80,https://github.com/torch/image,,,
+4503463,image,80,https://github.com/torch/image,EM_ANDAMENTO,,Romero
 3937397,noobs,79,https://github.com/raspberrypi/noobs,,,
 6298302,meta-sunxi,79,https://github.com/linux-sunxi/meta-sunxi,,,
 5587233,civetweb,79,https://github.com/bel2125/civetweb,,,
