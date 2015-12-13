@@ -396,7 +396,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 67783,simh,88,https://github.com/simh/simh,,,
 6229610,syslog-ng-incubator,88,https://github.com/balabit/syslog-ng-incubator,,,
 2631521,moai-dev,88,https://github.com/mindsnacks/moai-dev,,,
-209388,xvisor,88,https://github.com/xvisor/xvisor,,,
+209388,xvisor,88,https://github.com/xvisor/xvisor,INVÁLIDO,,Romero
 2997720,acpica,88,https://github.com/acpica/acpica,,,
 7394527,htop,88,https://github.com/hishamhm/htop,,,
 65699,php-memcached,87,https://github.com/php-memcached-dev/php-memcached,,,
@@ -413,7 +413,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 6305761,liblouis,86,https://github.com/liblouis/liblouis,,,
 16117,mate-desktop,86,https://github.com/mate-desktop/mate-desktop,,,
 83891,Unity,86,https://github.com/ThrowTheSwitch/Unity,,,
-1896416,xrdp,86,https://github.com/neutrinolabs/xrdp,,,
+1896416,xrdp,86,https://github.com/neutrinolabs/xrdp,EM_ANDAMENTO,,Romero
 8796303,mal,85,https://github.com/kanaka/mal,,,
 8950721,archipelago,85,https://github.com/grnet/archipelago,,,
 9186451,hhvm-third-party,84,https://github.com/hhvm/hhvm-third-party,,,
@@ -482,7 +482,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 6167380,xenserver-core,74,https://github.com/xenserver/xenserver-core,,,
 6892794,SynFTP,74,https://github.com/Alexey-T/SynFTP,,,
 20233,beanstalkd,74,https://github.com/kr/beanstalkd,,,
-18125202,yabause,74,https://github.com/Yabause/yabause,EM_ANDAMENTO,,Romero
+18125202,yabause,74,https://github.com/Yabause/yabause,PULL_REQUEST_ENVIADO,,Romero
 3260016,dump1090,74,https://github.com/MalcolmRobb/dump1090,,,
 129878,gambit,74,https://github.com/feeley/gambit,,,
 6622083,naemon-core,73,https://github.com/naemon/naemon-core,,,
