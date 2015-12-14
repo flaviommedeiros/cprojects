@@ -207,7 +207,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 116763,libarchive,146,https://github.com/libarchive/libarchive,,,
 126234,reconnoiter,146,https://github.com/omniti-labs/reconnoiter,Inválido,,Romero
 7419505,monitoring-plugins,145,https://github.com/monitoring-plugins/monitoring-plugins,,,
-4883521,pilight,145,https://github.com/pilight/pilight,,,
+4883521,pilight,145,https://github.com/pilight/pilight,Apenas_De_Lib,,Romero
 8325197,weechat,144,https://github.com/weechat/weechat,,,
 1448589,meterpreter,144,https://github.com/rapid7/meterpreter,,,
 1495871,eblob,143,https://github.com/reverbrain/eblob,,,
@@ -286,7 +286,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 327831,ClientTwitter-TwitCrusader,114,https://github.com/PTKDev/ClientTwitter-TwitCrusader,,,
 3953365,pydoop,114,https://github.com/crs4/pydoop,,,
 5472724,Espruino,114,https://github.com/espruino/Espruino,,,Wesley
-45717,pkgsrc,114,https://github.com/joyent/pkgsrc,Em_Andamento,,Romero
+45717,pkgsrc,114,https://github.com/joyent/pkgsrc,Apenas_De_Lib,,Romero
 19990204,ren-c,113,https://github.com/metaeducation/ren-c,Apenas_De_Lib,,Romero
 1459093,april-ann,113,https://github.com/pakozm/april-ann,,,
 12142259,ipfixcol,113,https://github.com/CESNET/ipfixcol,,,
@@ -329,7 +329,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 52726,jansson,100,https://github.com/akheron/jansson,,,
 71447,mythtv,99,https://github.com/MythTV/mythtv,,,
 78870,linux,99,https://github.com/hardkernel/linux,,,
-13911,phpredis,99,https://github.com/nicolasff/phpredis,,,
+13911,phpredis,99,https://github.com/nicolasff/phpredis,Em_Andamento,,Romero
 11171868,sima,99,https://github.com/losonczylab/sima,,,
 5537672,OSEmu,99,https://github.com/oscam-emu/OSEmu,PULL_REQUEST_ENVIADO,,LUIZ
 4836184,synergy,99,https://github.com/synergy/synergy,,,
@@ -401,7 +401,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 7394527,htop,88,https://github.com/hishamhm/htop,,,
 65699,php-memcached,87,https://github.com/php-memcached-dev/php-memcached,,,
 11750,samsung-kernel-msm7x30,87,https://github.com/arco/samsung-kernel-msm7x30,,,
-22052532,pipelinedb,87,https://github.com/pipelinedb/pipelinedb,,,
+22052532,pipelinedb,87,https://github.com/pipelinedb/pipelinedb,Apenas_De_Lib,,Romero
 3181862,cc65,87,https://github.com/oliverschmidt/cc65,,,
 759030,php-amqp,87,https://github.com/pdezwart/php-amqp,,,
 3906332,RaceCapture-Pro_firmware,87,https://github.com/autosportlabs/RaceCapture-Pro_firmware,PULL_REQUEST_ENVIADO,,LUIZ
