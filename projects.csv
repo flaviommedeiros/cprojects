@@ -303,7 +303,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 9808205,stb,109,https://github.com/nothings/stb,Pull_Request_Enviado,,Romero
 61000,media-service-upnp,109,https://github.com/01org/media-service-upnp,,,
 8325829,EusLisp,108,https://github.com/euslisp/EusLisp,,,Wesley
-8590212,cc65,107,https://github.com/cc65/cc65,,,
+8590212,cc65,107,https://github.com/cc65/cc65,INVALIDO,,
 145438,rtags,107,https://github.com/Andersbakken/rtags,,,
 13636932,sfq,106,https://github.com/cbh34680/sfq,,,
 10434027,conda-recipes-scitools,106,https://github.com/SciTools/conda-recipes-scitools,,,
@@ -333,7 +333,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 11171868,sima,99,https://github.com/losonczylab/sima,,,
 5537672,OSEmu,99,https://github.com/oscam-emu/OSEmu,PULL_REQUEST_ENVIADO,,LUIZ
 4836184,synergy,99,https://github.com/synergy/synergy,,,
-659363,quick-cocos2d-x,98,https://github.com/dualface/quick-cocos2d-x,,,
+659363,quick-cocos2d-x,98,https://github.com/dualface/quick-cocos2d-x,,,Wesley
 4831671,baton,98,https://github.com/wtsi-npg/baton,,,
 9502529,HAL,98,https://github.com/arpg/HAL,PULL_REQUEST_ENVIADO,,LUIZ
 67890,json-c,97,https://github.com/json-c/json-c,,,
@@ -451,7 +451,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 4503463,image,80,https://github.com/torch/image,,,
 3937397,noobs,79,https://github.com/raspberrypi/noobs,,,
 6298302,meta-sunxi,79,https://github.com/linux-sunxi/meta-sunxi,,,
-5587233,civetweb,79,https://github.com/bel2125/civetweb,,,
+5587233,civetweb,79,https://github.com/bel2125/civetweb,,,Wesley
 34772,curb,79,https://github.com/taf2/curb,,,
 580511,dsploit,79,https://github.com/evilsocket/dsploit,,,
 2621939,openMVG,78,https://github.com/openMVG/openMVG,,,
