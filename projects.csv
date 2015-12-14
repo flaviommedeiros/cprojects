@@ -205,7 +205,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 458803,flowgrind,147,https://github.com/flowgrind/flowgrind,,,
 22082412,sway,147,https://github.com/SirCmpwn/sway,,,
 116763,libarchive,146,https://github.com/libarchive/libarchive,,,
-126234,reconnoiter,146,https://github.com/omniti-labs/reconnoiter,,,
+126234,reconnoiter,146,https://github.com/omniti-labs/reconnoiter,Inválido,,Romero
 7419505,monitoring-plugins,145,https://github.com/monitoring-plugins/monitoring-plugins,,,
 4883521,pilight,145,https://github.com/pilight/pilight,,,
 8325197,weechat,144,https://github.com/weechat/weechat,,,
@@ -287,7 +287,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 3953365,pydoop,114,https://github.com/crs4/pydoop,,,
 5472724,Espruino,114,https://github.com/espruino/Espruino,,,Wesley
 45717,pkgsrc,114,https://github.com/joyent/pkgsrc,,,
-19990204,ren-c,113,https://github.com/metaeducation/ren-c,,,
+19990204,ren-c,113,https://github.com/metaeducation/ren-c,Apenas_De_Lib,,Romero
 1459093,april-ann,113,https://github.com/pakozm/april-ann,,,
 12142259,ipfixcol,113,https://github.com/CESNET/ipfixcol,,,
 3970867,libbson,113,https://github.com/mongodb/libbson,,,
@@ -346,7 +346,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 22043164,MarlinDev,96,https://github.com/MarlinFirmware/MarlinDev,,,
 36891,psmoveapi,96,https://github.com/thp/psmoveapi,,,
 39081,pianobar,96,https://github.com/PromyLOPh/pianobar,,,
-1839174,r3,95,https://github.com/rebol/r3,,,
+1839174,r3,95,https://github.com/rebol/r3,Em_Andamento,,Romero
 8067443,elemental-ircd,95,https://github.com/Elemental-IRCd/elemental-ircd,,,
 13354,fcitx,95,https://github.com/fcitx/fcitx,,,
 6520169,goship,95,https://github.com/gengo/goship,,,
@@ -362,7 +362,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 11677686,luvi,93,https://github.com/luvit/luvi,,,
 13650,git,93,https://github.com/msysgit/git,,,
 21979,pgrouting,93,https://github.com/pgRouting/pgrouting,,,
-3704210,roadrunner,93,https://github.com/AndySomogyi/roadrunner,,,
+3704210,roadrunner,93,https://github.com/AndySomogyi/roadrunner,Apenas_De_Lib,,Romero
 58873,Libevent,93,https://github.com/nmathewson/Libevent,EM_ANALISE,,LUIZ
 62115,okws,93,https://github.com/okws/okws,,,
 1122,yajl,92,https://github.com/lloyd/yajl,,,
@@ -393,7 +393,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 6849993,chocolate-doom,89,https://github.com/chocolate-doom/chocolate-doom,,,
 698780,hkl,89,https://github.com/hkl/hkl,,,
 11203467,gst-player,89,https://github.com/sdroege/gst-player,,,
-67783,simh,88,https://github.com/simh/simh,Em_Andamento,,Romero
+67783,simh,88,https://github.com/simh/simh,Pull_Request_Enviado,,Romero
 6229610,syslog-ng-incubator,88,https://github.com/balabit/syslog-ng-incubator,Inválido,,Romero
 2631521,moai-dev,88,https://github.com/mindsnacks/moai-dev,,,
 209388,xvisor,88,https://github.com/xvisor/xvisor,INVÁLIDO,,Romero
@@ -446,7 +446,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 7506289,mupen64plus-ae,80,https://github.com/mupen64plus-ae/mupen64plus-ae,,,
 11702192,git,80,https://github.com/git-for-windows/git,,,
 16356173,openjpeg,80,https://github.com/uclouvain/openjpeg,,,
-2662457,satyr,80,https://github.com/abrt/satyr,,,
+2662457,satyr,80,https://github.com/abrt/satyr,Apenas_De_Lib,,Romero
 12890266,CommonMark,80,https://github.com/jgm/CommonMark,,,
 4503463,image,80,https://github.com/torch/image,,,
 3937397,noobs,79,https://github.com/raspberrypi/noobs,,,
@@ -508,9 +508,9 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 1413751,polarssl,70,https://github.com/polarssl/polarssl,,,
 11774845,blackbox,70,https://github.com/BlackBoxCenter/blackbox,,,
 2409716,facs,70,https://github.com/SciLifeLab/facs,,,
-119278,rmlint,70,https://github.com/sahib/rmlint,,,
+119278,rmlint,70,https://github.com/sahib/rmlint,Apenas_De_lib,,Romero
 3072623,commotiond,70,https://github.com/opentechinstitute/commotiond,,,
-3218388,shairport,69,https://github.com/abrasive/shairport,,,
+3218388,shairport,69,https://github.com/abrasive/shairport,Inválido,,Romero
 11087,sundown,69,https://github.com/vmg/sundown,,,
 19431,shairport,69,https://github.com/albertz/shairport,,,
 4084062,qfusion,69,https://github.com/Warsow/qfusion,,,
