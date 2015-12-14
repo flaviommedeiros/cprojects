@@ -265,7 +265,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 5392523,oscam-emu,121,https://github.com/oscam-emu/oscam-emu,,,
 2782821,wcn36xx,121,https://github.com/KrasnikovEugene/wcn36xx,,,
 162472,packages,121,https://github.com/elrepo/packages,,,
-5542952,percona-xtrabackup,121,https://github.com/percona/percona-xtrabackup,,,
+5542952,percona-xtrabackup,121,https://github.com/percona/percona-xtrabackup,Apenas_De_Lib,,Romero
 639368,pyenv,121,https://github.com/yyuu/pyenv,,,
 268119,c-sdk,119,https://github.com/qiniu/c-sdk,,,
 4024,io,118,https://github.com/stevedekorte/io,,,
@@ -280,7 +280,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 3149,omnibus,116,https://github.com/opscode/omnibus,,,
 78720,Composite,115,https://github.com/gparmer/Composite,OUTRA_LIB ,,Wesley
 5591439,jemalloc,115,https://github.com/jemalloc/jemalloc,EM_ANALISE,,LUIZ
-163424,opencryptoki,115,https://github.com/joylatten/opencryptoki,,,
+163424,opencryptoki,115,https://github.com/joylatten/opencryptoki,Em_Andamento,,Romero
 2260970,libsodium,115,https://github.com/jedisct1/libsodium,,,
 306936,hime,115,https://github.com/hime-ime/hime,,,
 327831,ClientTwitter-TwitCrusader,114,https://github.com/PTKDev/ClientTwitter-TwitCrusader,,,
@@ -329,7 +329,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 52726,jansson,100,https://github.com/akheron/jansson,,,
 71447,mythtv,99,https://github.com/MythTV/mythtv,,,
 78870,linux,99,https://github.com/hardkernel/linux,,,
-13911,phpredis,99,https://github.com/nicolasff/phpredis,Em_Andamento,,Romero
+13911,phpredis,99,https://github.com/nicolasff/phpredis,Pull_Request_Enviado,,Romero
 11171868,sima,99,https://github.com/losonczylab/sima,,,
 5537672,OSEmu,99,https://github.com/oscam-emu/OSEmu,PULL_REQUEST_ENVIADO,,LUIZ
 4836184,synergy,99,https://github.com/synergy/synergy,,,
@@ -361,7 +361,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 253499,hammer,94,https://github.com/UpstandingHackers/hammer,,,
 11677686,luvi,93,https://github.com/luvit/luvi,,,
 13650,git,93,https://github.com/msysgit/git,,,
-21979,pgrouting,93,https://github.com/pgRouting/pgrouting,,,
+21979,pgrouting,93,https://github.com/pgRouting/pgrouting,Inválido,,Romero
 3704210,roadrunner,93,https://github.com/AndySomogyi/roadrunner,Apenas_De_Lib,,Romero
 58873,Libevent,93,https://github.com/nmathewson/Libevent,EM_ANALISE,,LUIZ
 62115,okws,93,https://github.com/okws/okws,,,
@@ -399,14 +399,14 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 209388,xvisor,88,https://github.com/xvisor/xvisor,INVÁLIDO,,Romero
 2997720,acpica,88,https://github.com/acpica/acpica,,,
 7394527,htop,88,https://github.com/hishamhm/htop,,,
-65699,php-memcached,87,https://github.com/php-memcached-dev/php-memcached,,,
+65699,php-memcached,87,https://github.com/php-memcached-dev/php-memcached,Apenas_De_Lib,,Romero
 11750,samsung-kernel-msm7x30,87,https://github.com/arco/samsung-kernel-msm7x30,,,
 22052532,pipelinedb,87,https://github.com/pipelinedb/pipelinedb,Apenas_De_Lib,,Romero
 3181862,cc65,87,https://github.com/oliverschmidt/cc65,,,
-759030,php-amqp,87,https://github.com/pdezwart/php-amqp,,,
+759030,php-amqp,87,https://github.com/pdezwart/php-amqp,Inválido,,Romero
 3906332,RaceCapture-Pro_firmware,87,https://github.com/autosportlabs/RaceCapture-Pro_firmware,PULL_REQUEST_ENVIADO,,LUIZ
 960114,trema-edge,87,https://github.com/trema/trema-edge,INVÁLIDO,,Romero
-3452879,pharo-vm,87,https://github.com/pharo-project/pharo-vm,,,
+3452879,pharo-vm,87,https://github.com/pharo-project/pharo-vm,Apenas_De_Lib,,Romero
 1433485,icecream,87,https://github.com/icecc/icecream,,,
 195079,msgpack-python,87,https://github.com/msgpack/msgpack-python,,,
 6492429,core-firmware,86,https://github.com/spark/firmware,,,
@@ -445,7 +445,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 24145350,device-sony-kitakami,80,https://github.com/sonyxperiadev/device-sony-kitakami,,,
 7506289,mupen64plus-ae,80,https://github.com/mupen64plus-ae/mupen64plus-ae,,,
 11702192,git,80,https://github.com/git-for-windows/git,,,
-16356173,openjpeg,80,https://github.com/uclouvain/openjpeg,,,
+16356173,openjpeg,80,https://github.com/uclouvain/openjpeg,Apenas_De_Lib,,Romero
 2662457,satyr,80,https://github.com/abrt/satyr,Apenas_De_Lib,,Romero
 12890266,CommonMark,80,https://github.com/jgm/CommonMark,,,
 4503463,image,80,https://github.com/torch/image,,,
