@@ -17,7 +17,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 177326,libgdx,1774,https://github.com/libgdx/libgdx,,,
 216519,suricata,1711,https://github.com/inliniac/suricata,,,
 5603,php-src,1613,https://github.com/php/php-src,,,
-3209,FreeRDP,1594,https://github.com/FreeRDP/FreeRDP,,,
+3209,FreeRDP,1594,https://github.com/FreeRDP/FreeRDP,,,s
 1964605,ardupilot,1402,https://github.com/diydrones/ardupilot,,,
 14794450,Marlin,1400,https://github.com/MarlinFirmware/Marlin,INVÁLIDO,ABERTO,ABERTO
 4371013,RetroArch,1395,https://github.com/libretro/RetroArch,ABERTO,ABERTO,Wesley
@@ -393,7 +393,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 6849993,chocolate-doom,89,https://github.com/chocolate-doom/chocolate-doom,,,
 698780,hkl,89,https://github.com/hkl/hkl,,,
 11203467,gst-player,89,https://github.com/sdroege/gst-player,,,
-67783,simh,88,https://github.com/simh/simh,,,
+67783,simh,88,https://github.com/simh/simh,Em_Andamento,,Romero
 6229610,syslog-ng-incubator,88,https://github.com/balabit/syslog-ng-incubator,Inválido,,Romero
 2631521,moai-dev,88,https://github.com/mindsnacks/moai-dev,,,
 209388,xvisor,88,https://github.com/xvisor/xvisor,INVÁLIDO,,Romero
