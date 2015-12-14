@@ -286,7 +286,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 327831,ClientTwitter-TwitCrusader,114,https://github.com/PTKDev/ClientTwitter-TwitCrusader,,,
 3953365,pydoop,114,https://github.com/crs4/pydoop,,,
 5472724,Espruino,114,https://github.com/espruino/Espruino,,,Wesley
-45717,pkgsrc,114,https://github.com/joyent/pkgsrc,,,
+45717,pkgsrc,114,https://github.com/joyent/pkgsrc,Em_Andamento,,Romero
 19990204,ren-c,113,https://github.com/metaeducation/ren-c,Apenas_De_Lib,,Romero
 1459093,april-ann,113,https://github.com/pakozm/april-ann,,,
 12142259,ipfixcol,113,https://github.com/CESNET/ipfixcol,,,
@@ -344,7 +344,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 10018087,klee,97,https://github.com/klee/klee,,,
 16164,pfsense-tools,96,https://github.com/bsdperimeter/pfsense-tools,,,
 22043164,MarlinDev,96,https://github.com/MarlinFirmware/MarlinDev,,,
-36891,psmoveapi,96,https://github.com/thp/psmoveapi,,,
+36891,psmoveapi,96,https://github.com/thp/psmoveapi,Inválido,,Romero
 39081,pianobar,96,https://github.com/PromyLOPh/pianobar,,,
 1839174,r3,95,https://github.com/rebol/r3,Pull_Request_Enviado,,Romero
 8067443,elemental-ircd,95,https://github.com/Elemental-IRCd/elemental-ircd,,,
@@ -354,7 +354,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 963930,dsme,95,https://github.com/nemomobile/dsme,,,
 16839681,linux-meson,95,https://github.com/endlessm/linux-meson,,,
 10748827,swoole-src,94,https://github.com/swoole/swoole-src,Pull_Request_Enviado,,Romero
-1596,pyuv,94,https://github.com/saghul/pyuv,,,
+1596,pyuv,94,https://github.com/saghul/pyuv,Inválido,,Romero
 26083,The-Powder-Toy,94,https://github.com/FacialTurd/The-Powder-Toy,,,
 34790,Core,94,https://github.com/YafaRay/Core,,,
 4052591,guacamole-server,94,https://github.com/glyptodon/guacamole-server,,,
@@ -389,7 +389,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 25827078,everyone-2015-09-15,89,https://github.com/githubteacher/everyone-2015-09-15,,,
 11808477,Linux-Documentation-KOR-Translation,89,https://github.com/jihuun/Linux-Documentation-KOR-Translation,,,
 6382706,nanovg,89,https://github.com/memononen/nanovg,,,
-8618875,proxmark3,89,https://github.com/Proxmark/proxmark3,,,
+8618875,proxmark3,89,https://github.com/Proxmark/proxmark3,Inválido,,Romero
 6849993,chocolate-doom,89,https://github.com/chocolate-doom/chocolate-doom,,,
 698780,hkl,89,https://github.com/hkl/hkl,,,
 11203467,gst-player,89,https://github.com/sdroege/gst-player,,,
@@ -418,7 +418,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 8950721,archipelago,85,https://github.com/grnet/archipelago,PULL_REQUEST_ENVIADO,,LUIZ
 9186451,hhvm-third-party,84,https://github.com/hhvm/hhvm-third-party,,,
 2441736,SystemesInformatiques,84,https://github.com/obonaventure/SystemesInformatiques,,,
-5589581,pynacl,84,https://github.com/pyca/pynacl,,,
+5589581,pynacl,84,https://github.com/pyca/pynacl,Apenas_De_Lib,,Romero
 89813,tmk_keyboard,84,https://github.com/tmk/tmk_keyboard,Apenas_De_Lib,,Romero
 16477209,Comm-Audio,84,https://github.com/Team-Chimera/Comm-Audio,,,
 27896,RetroArch,84,https://github.com/Themaister/RetroArch,,,
@@ -460,7 +460,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 16606841,mbedtls,78,https://github.com/ARMmbed/mbedtls,,,
 435951,musicdroid,78,https://github.com/Catrobat/musicdroid,,,
 177951,ottos,78,https://github.com/ramsondon/ottos,,,
-11721142,qira,78,https://github.com/BinaryAnalysisPlatform/qira,Em_Andamento,,Romero
+11721142,qira,78,https://github.com/BinaryAnalysisPlatform/qira,Pull_Request_Enviado,,Romero
 529455,RocketMinsta,77,https://github.com/nexAkari/RocketMinsta,,,
 12785,flashcache,77,https://github.com/facebook/flashcache,,,
 78832,mate-control-center,77,https://github.com/mate-desktop/mate-control-center,,,
@@ -505,7 +505,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 17373030,alloy,70,https://github.com/felixangell/alloy,,,
 3890333,frida-gum,70,https://github.com/frida/frida-gum,,,
 5202890,stp,70,https://github.com/stp/stp,,,
-1413751,polarssl,70,https://github.com/polarssl/polarssl,,,
+1413751,polarssl,70,https://github.com/polarssl/polarssl,Apenas_De_Lib,,Romero
 11774845,blackbox,70,https://github.com/BlackBoxCenter/blackbox,,,
 2409716,facs,70,https://github.com/SciLifeLab/facs,,,
 119278,rmlint,70,https://github.com/sahib/rmlint,Apenas_De_lib,,Romero
@@ -513,6 +513,6 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 3218388,shairport,69,https://github.com/abrasive/shairport,Inválido,,Romero
 11087,sundown,69,https://github.com/vmg/sundown,,,
 19431,shairport,69,https://github.com/albertz/shairport,,,
-4084062,qfusion,69,https://github.com/Warsow/qfusion,,,
+4084062,qfusion,69,https://github.com/Warsow/qfusion,Apenas_De_Lib,,Romero
 11624152,genie,69,https://github.com/bkaradzic/genie,,,
 2260397,faunus,69,https://github.com/mlund/faunus,,,
