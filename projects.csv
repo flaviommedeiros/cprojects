@@ -280,7 +280,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 3149,omnibus,116,https://github.com/opscode/omnibus,,,
 78720,Composite,115,https://github.com/gparmer/Composite,OUTRA_LIB ,,Wesley
 5591439,jemalloc,115,https://github.com/jemalloc/jemalloc,EM_ANALISE,,LUIZ
-163424,opencryptoki,115,https://github.com/joylatten/opencryptoki,Em_Andamento,,Romero
+163424,opencryptoki,115,https://github.com/joylatten/opencryptoki,Pull_Request_Enviado,,Romero
 2260970,libsodium,115,https://github.com/jedisct1/libsodium,,,
 306936,hime,115,https://github.com/hime-ime/hime,,,
 327831,ClientTwitter-TwitCrusader,114,https://github.com/PTKDev/ClientTwitter-TwitCrusader,,,
@@ -291,7 +291,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 1459093,april-ann,113,https://github.com/pakozm/april-ann,,,
 12142259,ipfixcol,113,https://github.com/CESNET/ipfixcol,,,
 3970867,libbson,113,https://github.com/mongodb/libbson,,,
-8124836,open62541,113,https://github.com/acplt/open62541,,,
+8124836,open62541,113,https://github.com/acplt/open62541,Pull_Request_Enviado,,Romero
 3045,memcached,112,https://github.com/memcached/memcached,,,
 868274,webvtt,112,https://github.com/humphd/webvtt,,,
 7837,webserver,111,https://github.com/cherokee/webserver,,,
@@ -454,7 +454,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 5587233,civetweb,79,https://github.com/bel2125/civetweb,,,Wesley
 34772,curb,79,https://github.com/taf2/curb,,,
 580511,dsploit,79,https://github.com/evilsocket/dsploit,,,
-2621939,openMVG,78,https://github.com/openMVG/openMVG,,,
+2621939,openMVG,78,https://github.com/openMVG/openMVG,Apenas_De_Lib,,Romero
 5377208,contrail-vrouter,78,https://github.com/Juniper/contrail-vrouter,,,Wesley
 6512146,tcpreplay,78,https://github.com/appneta/tcpreplay,Apenas_De_Lib,,Romero
 16606841,mbedtls,78,https://github.com/ARMmbed/mbedtls,,,
