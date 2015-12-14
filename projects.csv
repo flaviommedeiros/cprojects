@@ -278,7 +278,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 43653,uzbl,117,https://github.com/Dieterbe/uzbl,,,
 8839007,AGE,117,https://github.com/Another-Game-Engine/AGE,,,
 3149,omnibus,116,https://github.com/opscode/omnibus,,,
-78720,Composite,115,https://github.com/gparmer/Composite,,,Wesley
+78720,Composite,115,https://github.com/gparmer/Composite,OUTRA_LIB ,,Wesley
 5591439,jemalloc,115,https://github.com/jemalloc/jemalloc,EM_ANALISE,,LUIZ
 163424,opencryptoki,115,https://github.com/joylatten/opencryptoki,,,
 2260970,libsodium,115,https://github.com/jedisct1/libsodium,,,
@@ -439,7 +439,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 58704,genode,81,https://github.com/genodelabs/genode,,,
 9299251,galera,81,https://github.com/codership/galera,,,
 10024252,firmware,81,https://github.com/tessel/t1-firmware,,,
-1725,ssziparchive,80,https://github.com/ZipArchive/ZipArchive,,,
+1725,ssziparchive,80,https://github.com/ZipArchive/ZipArchive,,,Wesley
 268031,libnfs,80,https://github.com/sahlberg/libnfs,,,
 812514,flint2,80,https://github.com/wbhart/flint2,,,
 24145350,device-sony-kitakami,80,https://github.com/sonyxperiadev/device-sony-kitakami,,,
