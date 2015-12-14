@@ -230,7 +230,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 8210487,DO-CV,135,https://github.com/DO-CV/DO-CV,,,Wesley
 12753954,linux,135,https://github.com/dabrace/linux,,,
 1367125,PhoenixPilot,135,https://github.com/PhoenixPilot/PhoenixPilot,,,
-9654072,quick-cocos2d-x,134,https://github.com/chukong/quick-cocos2d-x,,,
+9654072,quick-cocos2d-x,134,https://github.com/chukong/quick-cocos2d-x,Apenas_De_Lib,,Romero
 224190,enable,134,https://github.com/enthought/enable,,,
 1935455,ioq3,134,https://github.com/ioquake/ioq3,PULL_REQUEST_ENVIADO,,LUIZ
 179221,tmLQCD,134,https://github.com/etmc/tmLQCD,Inválido,,Romero
@@ -460,7 +460,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 16606841,mbedtls,78,https://github.com/ARMmbed/mbedtls,,,
 435951,musicdroid,78,https://github.com/Catrobat/musicdroid,,,
 177951,ottos,78,https://github.com/ramsondon/ottos,,,
-11721142,qira,78,https://github.com/BinaryAnalysisPlatform/qira,,,
+11721142,qira,78,https://github.com/BinaryAnalysisPlatform/qira,Em_Andamento,,Romero
 529455,RocketMinsta,77,https://github.com/nexAkari/RocketMinsta,,,
 12785,flashcache,77,https://github.com/facebook/flashcache,,,
 78832,mate-control-center,77,https://github.com/mate-desktop/mate-control-center,,,
