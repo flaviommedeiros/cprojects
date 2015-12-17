@@ -309,7 +309,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 10434027,conda-recipes-scitools,106,https://github.com/SciTools/conda-recipes-scitools,,,
 24204027,domoticz,106,https://github.com/EddyK69/domoticz,OUTRA_LIB,,LUIZ
 60573,Wifly_Light,105,https://github.com/polybassa/Wifly_Light,OUTRA_LIB,,LUIZ
-21041244,f1rmware,104,https://github.com/rad1o/f1rmware,,,
+21041244,f1rmware,104,https://github.com/rad1o/f1rmware,,,Wesley
 5383,smartos-live,104,https://github.com/joyent/smartos-live,Apenas_De_Lib,,Romero
 4898666,clBLAS,104,https://github.com/clMathLibraries/clBLAS,,,
 53887,libetpan,104,https://github.com/dinhviethoa/libetpan,,,
@@ -507,7 +507,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 5202890,stp,70,https://github.com/stp/stp,,,
 1413751,polarssl,70,https://github.com/polarssl/polarssl,Apenas_De_Lib,,Romero
 11774845,blackbox,70,https://github.com/BlackBoxCenter/blackbox,,,
-2409716,facs,70,https://github.com/SciLifeLab/facs,,,
+2409716,facs,70,https://github.com/SciLifeLab/facs,,,Wesley
 119278,rmlint,70,https://github.com/sahib/rmlint,Apenas_De_lib,,Romero
 3072623,commotiond,70,https://github.com/opentechinstitute/commotiond,,,
 3218388,shairport,69,https://github.com/abrasive/shairport,Inválido,,Romero
