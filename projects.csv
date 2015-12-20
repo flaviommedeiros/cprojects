@@ -316,7 +316,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 8572,tlsdate,103,https://github.com/ioerror/tlsdate,Inválido,,Romero
 20110,grbl,103,https://github.com/grbl/grbl,,,
 53614,tup,103,https://github.com/gittup/tup,,,
-60409,ngx_mruby,103,https://github.com/matsumoto-r/ngx_mruby,,,
+60409,ngx_mruby,103,https://github.com/matsumoto-r/ngx_mruby,Inválido,,Romero
 3994246,licode,103,https://github.com/ging/licode,,,
 67152,ASF_MapReady,101,https://github.com/rudigens/ASF_MapReady,EM_ANALISE,,LUIZ
 67292,tinc,101,https://github.com/gsliepen/tinc,Inválido,,Romero
@@ -422,7 +422,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 89813,tmk_keyboard,84,https://github.com/tmk/tmk_keyboard,Apenas_De_Lib,,Romero
 16477209,Comm-Audio,84,https://github.com/Team-Chimera/Comm-Audio,,,
 27896,RetroArch,84,https://github.com/Themaister/RetroArch,,,
-2652874,nut,84,https://github.com/networkupstools/nut,Em_Andamento,,Romero
+2652874,nut,84,https://github.com/networkupstools/nut,Pull_Request_Enviado,,Romero
 100599,NDK-Samples,84,https://github.com/blackberry/NDK-Samples,,,
 13472893,framework,84,https://github.com/ice/framework,,,
 56936,RedPhone,84,https://github.com/WhisperSystems/RedPhone,,,
@@ -449,7 +449,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 2662457,satyr,80,https://github.com/abrt/satyr,Apenas_De_Lib,,Romero
 12890266,CommonMark,80,https://github.com/jgm/CommonMark,,,
 4503463,image,80,https://github.com/torch/image,,,
-3937397,noobs,79,https://github.com/raspberrypi/noobs,,,
+3937397,noobs,79,https://github.com/raspberrypi/noobs,Inválido,,Romero
 6298302,meta-sunxi,79,https://github.com/linux-sunxi/meta-sunxi,,,
 5587233,civetweb,79,https://github.com/bel2125/civetweb,,,Wesley
 34772,curb,79,https://github.com/taf2/curb,,,
@@ -464,7 +464,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 529455,RocketMinsta,77,https://github.com/nexAkari/RocketMinsta,,,
 12785,flashcache,77,https://github.com/facebook/flashcache,,,
 78832,mate-control-center,77,https://github.com/mate-desktop/mate-control-center,,,
-13655275,nginx-vod-module,77,https://github.com/kaltura/nginx-vod-module,,,
+13655275,nginx-vod-module,77,https://github.com/kaltura/nginx-vod-module,Em_Andamento,,Romero
 28627,cyassl,77,https://github.com/cyassl/cyassl,,,Wesley
 46114,pyspotify,77,https://github.com/mopidy/pyspotify,,,
 53918,pygments.rb,77,https://github.com/tmm1/pygments.rb,,,
