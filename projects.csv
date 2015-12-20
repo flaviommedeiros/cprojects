@@ -12,7 +12,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 8540,openFrameworks,1977,https://github.com/openframeworks/openFrameworks,,,
 12075,pioneer,1956,https://github.com/pioneerspacesim/pioneer,,,
 7704341,neovim,1954,https://github.com/neovim/neovim,,,
-16356,cphalcon,1939,https://github.com/phalcon/cphalcon,,,
+16356,cphalcon,1939,https://github.com/phalcon/cphalcon,,,n
 2916055,minetest,1815,https://github.com/minetest/minetest,,,
 177326,libgdx,1774,https://github.com/libgdx/libgdx,,,
 216519,suricata,1711,https://github.com/inliniac/suricata,,,
@@ -422,7 +422,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 89813,tmk_keyboard,84,https://github.com/tmk/tmk_keyboard,Apenas_De_Lib,,Romero
 16477209,Comm-Audio,84,https://github.com/Team-Chimera/Comm-Audio,,,
 27896,RetroArch,84,https://github.com/Themaister/RetroArch,,,
-2652874,nut,84,https://github.com/networkupstools/nut,,,
+2652874,nut,84,https://github.com/networkupstools/nut,Em_Andamento,,Romero
 100599,NDK-Samples,84,https://github.com/blackberry/NDK-Samples,,,
 13472893,framework,84,https://github.com/ice/framework,,,
 56936,RedPhone,84,https://github.com/WhisperSystems/RedPhone,,,
