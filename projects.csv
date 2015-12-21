@@ -209,7 +209,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 7419505,monitoring-plugins,145,https://github.com/monitoring-plugins/monitoring-plugins,,,
 4883521,pilight,145,https://github.com/pilight/pilight,Apenas_De_Lib,,Romero
 8325197,weechat,144,https://github.com/weechat/weechat,,,
-1448589,meterpreter,144,https://github.com/rapid7/meterpreter,,,
+1448589,meterpreter,144,https://github.com/rapid7/meterpreter,Em_Andamento,,Romero
 1495871,eblob,143,https://github.com/reverbrain/eblob,,,
 3992211,mupen64plus-libretro,143,https://github.com/libretro/mupen64plus-libretro,PULL_REQUEST_ENVIADO,,LUIZ
 67060,util-linux,142,https://github.com/karelzak/util-linux,,,
@@ -372,7 +372,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 5327621,linuxrc,91,https://github.com/openSUSE/linuxrc,,,
 218595,tundra,91,https://github.com/deplinenoise/tundra,,,
 2841644,redshift,91,https://github.com/jonls/redshift,,,
-90674,miniupnp,91,https://github.com/miniupnp/miniupnp,Em_Andamento,,Romero
+90674,miniupnp,91,https://github.com/miniupnp/miniupnp,Pull_Request_Enviado,,Romero
 229161,mongoose,91,https://github.com/valenok/mongoose,,,
 37493,libmodbus,91,https://github.com/stephane/libmodbus,,,
 13025326,dynomite,91,https://github.com/Netflix/dynomite,,,
