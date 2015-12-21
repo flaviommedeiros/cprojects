@@ -243,7 +243,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 130880,mate-panel,132,https://github.com/mate-desktop/mate-panel,,,
 3947597,wifidog-gateway,131,https://github.com/wifidog/wifidog-gateway,,,
 10468836,mraa,131,https://github.com/intel-iot-devkit/mraa,,,
-48777,muffin,131,https://github.com/linuxmint/muffin,,,
+48777,muffin,131,https://github.com/linuxmint/muffin,Inválido,,Romero
 28297,hackrf,130,https://github.com/mossmann/hackrf,,,
 18444,upipe,129,https://github.com/cmassiot/upipe,,,
 1572106,cordova-windows,129,https://github.com/apache/cordova-windows,,,
@@ -258,7 +258,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 21262,mongo-perl-driver,124,https://github.com/mongodb/mongo-perl-driver,,,
 1335994,userland,124,https://github.com/raspberrypi/userland,,,
 13828581,egoboo,123,https://github.com/egoboo/egoboo,PULL_REQUEST_ENVIADO,,LUIZ
-17451350,naev,122,https://github.com/naev/naev,,,
+17451350,naev,122,https://github.com/naev/naev,Pull_Request_Enviado,,Romero
 4884005,Sigma,122,https://github.com/adam4813/Sigma,,,
 12822893,qfusion,122,https://github.com/Warsow/qfusion,PULL_REQUEST_ENVIADO,,LUIZ
 5374380,mongoose,121,https://github.com/cesanta/mongoose,,,
@@ -372,7 +372,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 5327621,linuxrc,91,https://github.com/openSUSE/linuxrc,,,
 218595,tundra,91,https://github.com/deplinenoise/tundra,,,
 2841644,redshift,91,https://github.com/jonls/redshift,,,
-90674,miniupnp,91,https://github.com/miniupnp/miniupnp,,,
+90674,miniupnp,91,https://github.com/miniupnp/miniupnp,Em_Andamento,,Romero
 229161,mongoose,91,https://github.com/valenok/mongoose,,,
 37493,libmodbus,91,https://github.com/stephane/libmodbus,,,
 13025326,dynomite,91,https://github.com/Netflix/dynomite,,,
