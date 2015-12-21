@@ -491,7 +491,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 13008298,Arduino_STM32,73,https://github.com/rogerclarkmelbourne/Arduino_STM32,,,Wesley
 38366,dnscrypt-proxy,73,https://github.com/jedisct1/dnscrypt-proxy,,,Wesley
 10723218,obix,73,https://github.com/ONEDC/obix,,,
-176537,mate-utils,73,https://github.com/mate-desktop/mate-utils,,,
+176537,mate-utils,73,https://github.com/mate-desktop/mate-utils,Pull_Request_Enviado,,Romero
 6015411,seqan,73,https://github.com/esiragusa/seqan,,,
 18275051,p4factory,73,https://github.com/p4lang/p4factory,,,
 18473358,android_device_sony_huashan,73,https://github.com/Mrcl1450/android_device_sony_huashan,,,
@@ -500,7 +500,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 4697485,libass,72,https://github.com/libass/libass,,,
 101936,torch,71,https://github.com/andresy/torch,Deprecated,,Romero
 6271190,lua_sandbox,71,https://github.com/mozilla-services/lua_sandbox,,,
-5881839,marco,71,https://github.com/mate-desktop/marco,,,
+5881839,marco,71,https://github.com/mate-desktop/marco,Em_Andamento,,Romero
 63836,renderer-service-upnp,71,https://github.com/01org/renderer-service-upnp,,,
 17373030,alloy,70,https://github.com/felixangell/alloy,,,
 3890333,frida-gum,70,https://github.com/frida/frida-gum,,,
