@@ -216,7 +216,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 13043565,tempesta,142,https://github.com/natsys/tempesta,Inválido,,Romero
 8672697,cocos2d-x,142,https://github.com/cocos2d-html5/cocos2d-x,,,
 30385,git-po,141,https://github.com/git-l10n/git-po,,,
-2403765,libswiftnav,140,https://github.com/swift-nav/libswiftnav,Em_Andamento,,Romero
+2403765,libswiftnav,140,https://github.com/swift-nav/libswiftnav,Apenas_De_Lib,,Romero
 25809701,stackstore,139,https://github.com/varunjayaraman/stackstore,,,
 22195,nagios-plugins,138,https://github.com/nagios-plugins/nagios-plugins,,,
 39793,xbps-packages,138,https://github.com/xtraeme/xbps-packages,,,
@@ -471,7 +471,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 7333412,libtrading,77,https://github.com/libtrading/libtrading,,,
 922644,ChibiOS-GFX,76,https://github.com/Tectu/ChibiOS-GFX,,,
 20350,magnum-jumbo,76,https://github.com/magnumripper/magnum-jumbo,,,
-877535,librdkafka,76,https://github.com/edenhill/librdkafka,,,
+877535,librdkafka,76,https://github.com/edenhill/librdkafka,Em_Andamento,,Romero
 32073,libmaple,76,https://github.com/leaflabs/libmaple,,,
 17599090,proyecto_subtes,76,https://github.com/Subtes/proyecto_subtes,,,
 34657,zlib,75,https://github.com/madler/zlib,Pull_Request_Enviado,,Romero
