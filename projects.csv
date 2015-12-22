@@ -216,7 +216,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 13043565,tempesta,142,https://github.com/natsys/tempesta,Inválido,,Romero
 8672697,cocos2d-x,142,https://github.com/cocos2d-html5/cocos2d-x,,,
 30385,git-po,141,https://github.com/git-l10n/git-po,,,
-2403765,libswiftnav,140,https://github.com/swift-nav/libswiftnav,,,
+2403765,libswiftnav,140,https://github.com/swift-nav/libswiftnav,Em_Andamento,,Romero
 25809701,stackstore,139,https://github.com/varunjayaraman/stackstore,,,
 22195,nagios-plugins,138,https://github.com/nagios-plugins/nagios-plugins,,,
 39793,xbps-packages,138,https://github.com/xtraeme/xbps-packages,,,
@@ -325,7 +325,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 3700405,libxively,100,https://github.com/xively/libxively,,,
 3838791,turbo,100,https://github.com/kernelsauce/turbo,INVÁLIDO,,Romero
 103348,Monocle-Engine,100,https://github.com/zaphire/Monocle-Engine,,,
-9738577,luv,100,https://github.com/luvit/luv,,,
+9738577,luv,100,https://github.com/luvit/luv,Pull_Request_Enviado,,Romero
 52726,jansson,100,https://github.com/akheron/jansson,,,
 71447,mythtv,99,https://github.com/MythTV/mythtv,,,
 78870,linux,99,https://github.com/hardkernel/linux,,,
