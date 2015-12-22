@@ -279,7 +279,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 8839007,AGE,117,https://github.com/Another-Game-Engine/AGE,,,
 3149,omnibus,116,https://github.com/opscode/omnibus,,,
 78720,Composite,115,https://github.com/gparmer/Composite,OUTRA_LIB ,,Wesley
-5591439,jemalloc,115,https://github.com/jemalloc/jemalloc,EM_ANALISE,,LUIZ
+5591439,jemalloc,115,https://github.com/jemalloc/jemalloc,Pull_Request_Enviado,,Romero
 163424,opencryptoki,115,https://github.com/joylatten/opencryptoki,Pull_Request_Enviado,,Romero
 2260970,libsodium,115,https://github.com/jedisct1/libsodium,,,
 306936,hime,115,https://github.com/hime-ime/hime,,,
@@ -471,7 +471,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 7333412,libtrading,77,https://github.com/libtrading/libtrading,,,
 922644,ChibiOS-GFX,76,https://github.com/Tectu/ChibiOS-GFX,,,
 20350,magnum-jumbo,76,https://github.com/magnumripper/magnum-jumbo,,,
-877535,librdkafka,76,https://github.com/edenhill/librdkafka,Em_Andamento,,Romero
+877535,librdkafka,76,https://github.com/edenhill/librdkafka,Pull_Request_Enviado,,Romero
 32073,libmaple,76,https://github.com/leaflabs/libmaple,,,
 17599090,proyecto_subtes,76,https://github.com/Subtes/proyecto_subtes,,,
 34657,zlib,75,https://github.com/madler/zlib,Pull_Request_Enviado,,Romero
@@ -487,7 +487,7 @@ id,Projeto,Pull Requests,Link,Status-Refactory,Status-Chart,Responsável
 129878,gambit,74,https://github.com/feeley/gambit,,,
 6622083,naemon-core,73,https://github.com/naemon/naemon-core,,,
 16265081,term-project,73,https://github.com/Marx-Engine/term-project,,,
-3372551,libpcap,73,https://github.com/the-tcpdump-group/libpcap,,,
+3372551,libpcap,73,https://github.com/the-tcpdump-group/libpcap,Pull_Request_Enviado,,Romero
 13008298,Arduino_STM32,73,https://github.com/rogerclarkmelbourne/Arduino_STM32,,,Wesley
 38366,dnscrypt-proxy,73,https://github.com/jedisct1/dnscrypt-proxy,,,Wesley
 10723218,obix,73,https://github.com/ONEDC/obix,,,
